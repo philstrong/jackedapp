@@ -6,6 +6,14 @@ You chat with your coach. They remember everything, apply progressive overload a
 
 **[jackedapp.ai](https://jackedapp.ai) · Available on iOS**
 
+<p align="center">
+  <img src="https://jackedapp.ai/screen-coach.png" width="220" alt="Coach chat" />
+  &nbsp;&nbsp;
+  <img src="https://jackedapp.ai/screen-history.png" width="220" alt="Workout history" />
+  &nbsp;&nbsp;
+  <img src="https://jackedapp.ai/screen-profile.png" width="220" alt="Profile" />
+</p>
+
 ---
 
 ## This Repo
