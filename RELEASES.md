@@ -182,7 +182,6 @@ Tips moved into the Start Workout screen.
 
 ## Build 5 (October 2025)
 
-**User profiles and beta waitlist.**
+**Beta waitlist.**
 
-- Save your height, weight, age, goals, and injuries so your coach has full context from day one
-- Beta waitlist added for new signups
+Beta waitlist added for new signups.
