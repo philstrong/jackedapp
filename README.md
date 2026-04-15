@@ -19,12 +19,10 @@ You chat with your coach. They remember everything, apply progressive overload a
 ## This Repo
 
 Use this repo to:
-
+- **Browse [existing issues](https://github.com/philstrong/jackedapp/issues)** to see what's been reported or upvote things you want.
 - **[Report a bug](https://github.com/philstrong/jackedapp/issues/new?template=bug_report.md)** — something broken or not working right
 - **[Request a feature](https://github.com/philstrong/jackedapp/issues/new?template=feature_request.md)** — something that would make Jacked better
 - **[Start a discussion](https://github.com/philstrong/jackedapp/issues/new?template=discussion.md)** — questions, training talk, general feedback
-
-Browse [existing issues](https://github.com/philstrong/jackedapp/issues) to see what's been reported or upvote things you want.
 
 ---
 
