@@ -2,6 +2,14 @@
 
 ---
 
+## Build 40 (v1.0.1 — April 2026)
+
+**Workout rotation now rotates.**
+
+Fixed a bug where the app would keep recommending the same workout type over and over if you picked the same one a few times in a row. The rotation learner was inadvertently treating "push followed by push" as a pattern and reinforcing it. Now it falls back to the default push → pull → lower rotation whenever it detects that kind of self-reinforcing loop.
+
+---
+
 ## Build 39 (v1.0.1 — April 2026)
 
 **Profile data now stays in sync.**
