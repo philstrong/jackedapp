@@ -2,6 +2,42 @@
 
 ---
 
+## Build 39 (v1.0.1 — April 2026)
+
+**Profile data now stays in sync.**
+
+Fixed a bug where your profile fields (weight, goals, injuries) could show up blank after a reinstall or when switching devices — the app was reading a stale local cache instead of pulling fresh data from the server. Your profile now loads correctly every time you open Settings.
+
+Under the hood: the release pipeline now catches TestFlight upload failures properly so we can't accidentally ship a "successful" build that never made it to Apple.
+
+---
+
+## Build 37 (April 2026)
+
+**Explore the full app before you decide.**
+
+The paywall has moved from app entry to workout start. When you open Jacked now, you see the whole app — tabs, example history, coach selection, profile — and the paywall only appears when you tap Start on a workout. Browse first, decide later.
+
+New touches:
+- Example history cards and stats so you can see what a real session looks like before you pay
+- Orange "Get Jacked" button at the top of every screen if you want to subscribe from anywhere
+- Start button wiggles gently when no session is active to draw your eye
+- New 4-card onboarding flow that leads with the chat experience
+
+Also: a security fix for account deletion (access-token binding) and a clean-up pass on the Settings footer.
+
+---
+
+## Build 36 (April 2026)
+
+**Workout stats moved to History.**
+
+Workouts, week streak, and average time stats now live on the History screen instead of tucked into Settings — tap any stat card to see details. New icons, cleaner layout, and workout type (PUSH / PULL / LOWER) merged into each history card's date header so you can scan your log faster.
+
+Fixed a streak calculation bug and tightened up the sign-out button styling.
+
+---
+
 ## Build 35 (April 2026)
 
 **Session restore is now rock-solid.**
