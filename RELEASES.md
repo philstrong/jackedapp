@@ -2,6 +2,14 @@
 
 ---
 
+## Build 42 (v1.0.1 — April 2026)
+
+**Coach identity redesign progresses behind the flag.**
+
+Subscriber gate: unpaid users now see a clean "Subscribers Only" divider above the chat input with a "Get Jacked" CTA — replaces the old disabled input. The sample conversation (WelcomePrimer) renders with the new coach identity bubble styles so it matches the live chat. Round accent-colored send button with the Lucide paper-plane icon. Scroll-to-latest button added to History. Larger avatar (48px) and refined bubble typography.
+
+---
+
 ## Build 41 (v1.0.1 — April 2026)
 
 **Tighter security and small polish.**
