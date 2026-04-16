@@ -2,6 +2,16 @@
 
 ---
 
+## Build 41 (v1.0.1 — April 2026)
+
+**Tighter security and small polish.**
+
+Server-side subscription verification: `/api/access` now double-checks RevenueCat entitlement on the server so access can't be spoofed from a tampered client. Network-failure fallback is stricter — no access if we genuinely can't confirm it.
+
+Under the hood we've also been prototyping a coach identity redesign (new chat bubbles, set cards, session header, tab bar tint) behind a dev flag. Nothing visible to you yet unless you're on the dev allowlist — we'll flip it on for everyone in an upcoming build after testing.
+
+---
+
 ## Build 40 (v1.0.1 — April 2026)
 
 **Workout rotation now rotates.**
