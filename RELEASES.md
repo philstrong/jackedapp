@@ -2,6 +2,18 @@
 
 ---
 
+## Build 45 (v1.0.1 — April 2026)
+
+**Your coach waits for you to lift before logging.**
+
+The AI was occasionally logging a set as soon as you told it your plan — before you actually lifted. It'll now ask you to complete the set first, then log it once you confirm. Less frustrating, more accurate.
+
+Warmup sets are now recognized and labeled automatically. Say "warming up with 135" and the coach logs it with a warmup note rather than treating it like a working set.
+
+Also fixed: a floating "Done" button that was bleeding through the About You form on iOS.
+
+---
+
 ## Build 42 (v1.0.1 — April 2026)
 
 **Coach identity redesign progresses behind the flag.**
