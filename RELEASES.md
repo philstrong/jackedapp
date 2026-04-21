@@ -1,5 +1,11 @@
 # Jacked — Release Notes
 
+## Build 65 (v1.0.2 — April 2026)
+
+**Edit and delete from history.**
+
+You can now tap into any logged workout and edit or delete individual sets, or remove the whole session if needed. Coach chat got a visual refresh — fonts are sharper and the coach's message bubbles now use a color that matches their coaching style. Login sessions are stored in the iOS Keychain so you stay signed in more reliably across app updates.
+
 ---
 
 ## Build 63 (v1.0.2 — April 2026)
