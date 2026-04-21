@@ -2,6 +2,14 @@
 
 ---
 
+## Build 63 (v1.0.2 — April 2026)
+
+**Chat input polish.**
+
+The input bar now collapses and clears automatically when a session ends, so it's out of the way until you need it again. You can also type your next message while the coach is still responding — no more waiting. A bit more breathing room was added between the input bar and the keyboard.
+
+---
+
 ## Build 62 (v1.0.2 — April 2026)
 
 **Keyboard and promo code fixes.**
