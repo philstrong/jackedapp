@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 66 (v1.0.2 — April 2026)
+
+**Spacing polish.**
+
+A bit more breathing room between the chat input and the keyboard on all devices. History workout cards also have slightly better spacing so they're easier to scan.
+
+---
+
 ## Build 65 (v1.0.2 — April 2026)
 
 **Edit and delete from history.**
