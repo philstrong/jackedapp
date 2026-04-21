@@ -2,6 +2,102 @@
 
 ---
 
+## Build 62 (v1.0.2 — April 2026)
+
+**Keyboard and promo code fixes.**
+
+Fixed a gap between the chat input bar and the keyboard on real devices — the input now sits flush against the keyboard as intended. Promo codes have been redesigned to use Apple Offer Codes, making them easier to redeem directly through the App Store.
+
+---
+
+## Build 61 (v1.0.2 — April 2026)
+
+**Password reset, security hardening, and Rate the App.**
+
+Reset password flow now has correct labels and no longer shows confusing Cognito error messages. Sign-in no longer reveals whether an email is registered. Rate the App in Settings is now wired up. Dev settings panel is accessible by tapping the staging banner.
+
+---
+
+## Build 59 (v1.0.2 — April 2026)
+
+**Account switching and input polish.**
+
+Toggling between staging and production now fully swaps your account — profile, history, and conversation all switch. Chat input is capped at three lines so it doesn't take over the screen. Promo codes are restricted to monthly plans.
+
+---
+
+## Build 58 (v1.0.2 — April 2026)
+
+**Promo codes and a play button.**
+
+You can now enter a promo code on the paywall to unlock access. A play button in the chat input lets you start a new workout session without reaching for the header. New users are reminded they can paste an existing routine to get started.
+
+---
+
+## Build 57 (v1.0.2 — April 2026)
+
+**Staging indicator and floating tab bar.**
+
+A banner appears when the staging API is active so it's always clear which environment you're on. The tab bar now floats above the content. Also fixed a bug where warmup sets were sometimes auto-logged before you confirmed them.
+
+---
+
+## Build 56 (v1.0.2 — April 2026)
+
+**Welcome email and website performance.**
+
+New users now receive a welcome email after signing up. The website was overhauled — fonts, images, and layout are all faster and sharper. No app behavior changes.
+
+---
+
+## Build 51 (v1.0.2 — April 2026)
+
+**Removed beta mode.**
+
+The beta escape hatch for access control has been retired. Access is now fully controlled by your subscription. No visible changes if you're a subscriber.
+
+---
+
+## Build 50 (v1.0.2 — April 2026)
+
+**Coach identity is live for everyone.**
+
+The redesigned coach chat experience — new bubble styles, session header, and refined typography — is now on for all users. Also removed the How It Works rotator from the sign-up flow to keep onboarding focused.
+
+---
+
+## Build 49 (v1.0.2 — April 2026)
+
+**Paywall and UI polish.**
+
+More refinements to the paywall, onboarding primer, settings screen, and chat bubbles based on early feedback. Lint errors cleared out under the hood.
+
+---
+
+## Build 48 (v1.0.2 — April 2026)
+
+**Paywall layout fix for smaller screens.**
+
+The paywall was clipping on iPhone SE and when large text accessibility sizes were enabled. Fixed.
+
+---
+
+## Build 47 (v1.0.2 — April 2026)
+
+**Paywall polish and App Store screenshots.**
+
+Refined the paywall design and updated App Store screenshots to match the current app.
+
+---
+
+## Build 46 (v1.0.1 — April 2026)
+
+**Header and dev panel polish.**
+
+History and Profile tab headers cleaned up. Staff dev panel refined. No behavior changes for regular users.
+
+---
+
 ## Build 45 (v1.0.1 — April 2026)
 
 **Your coach waits for you to lift before logging.**
