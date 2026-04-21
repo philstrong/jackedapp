@@ -8,17 +8,10 @@ You chat with your coach. They remember everything, apply progressive overload a
 
 <br />
 
-<p align="center">
-  <img src="https://jackedapp.ai/appstore-train.png" width="200" alt="Coach starting a workout" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://jackedapp.ai/appstore-train2.webp" width="200" alt="Logging sets in chat" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://jackedapp.ai/appstore-history.webp" width="200" alt="Workout history" />
-</p>
-
-<p align="center">
-  <strong>No deciding what to train</strong> &nbsp;·&nbsp; <strong>Log sets like texting a friend</strong> &nbsp;·&nbsp; <strong>Track every rep</strong>
-</p>
+| ![Coach starting a workout](https://jackedapp.ai/appstore-train.png) | ![Logging sets in chat](https://jackedapp.ai/appstore-train2.webp) | ![Workout history](https://jackedapp.ai/appstore-history.webp) |
+|:---:|:---:|:---:|
+| **No scrolling through plans. No deciding what to train.** | **Log sets the way you'd text a friend.** | **Measuring What Matters** |
+| Your coach pulls up your history and kicks off the right workout. | No dropdowns or forms. Just chat — "I got 10 x 100lbs" | Every set, every rep, every session — logged and compared. |
 
 ---
 
