@@ -1,5 +1,53 @@
 # Jacked — Release Notes
 
+## Build 74 (v1.0.3 — April 2026)
+
+**Milestones, a faster coach, and smarter routine prompts.**
+
+Your all-time personal records are now front and center in milestones, with a new goal sequence and a View All sheet to scroll through everything you've hit. The coach is noticeably faster to respond. Free trial details show on the paywall when they apply, and the routine prompt now shows up at the right time — when you first try a new workout type, not during setup.
+
+---
+
+## Build 73 (v1.0.3 — April 2026)
+
+**Milestones, a faster coach, and smarter routine prompts.**
+
+All-time personal records are now highlighted in milestones, with a refreshed goal sequence and a View All sheet to browse your history. The coach responds faster. The paywall shows free trial details when they apply, and the routine prompt now surfaces at the right moment — the first time you try a new workout type, not during initial setup.
+
+---
+
+## Build 72 (v1.0.3 — April 2026)
+
+**Milestones, a faster coach, and smarter routine prompts.**
+
+All-time personal records are now front and center in milestones, with a fresh goal sequence and a View All sheet to browse everything you've hit. Coach replies are noticeably faster. The paywall shows free trial details when they apply, and the routine prompt now appears at exactly the right moment — the first time you try a new workout type, not during initial setup.
+
+---
+
+## Build 71 (v1.0.3 — April 2026)
+
+**Milestones, a faster coach, and smarter routine prompts.**
+
+The milestones section now shows all-time personal records with a fresh goal sequence and a View All sheet to browse everything you've hit. Coach replies are noticeably faster. The paywall now shows free trial details when they apply, and the routine prompt appears at the right moment — the first time you try a new workout type, not during initial setup.
+
+---
+
+## Build 69 (v1.0.2 — April 2026)
+
+**Smarter routine prompts.**
+
+The first time you try a new workout type, the coach now asks if you already have a routine for that specific session — so if you've got a Push Day program, it offers to use it right when it's relevant. The generic routine tip that appeared during initial setup has been removed.
+
+---
+
+## Build 67 (v1.0.2 — April 2026)
+
+**Milestones and a faster coach.**
+
+The milestones section has been reworked — it now shows all-time personal records, a fresh goal sequence, and a View All sheet so you can browse everything you've hit. Coach replies are noticeably faster. The paywall now shows free trial details when they apply, so you know exactly what you're signing up for.
+
+---
+
 ## Build 66 (v1.0.2 — April 2026)
 
 **Spacing polish.**
