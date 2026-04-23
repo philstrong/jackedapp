@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 75 (v1.0.3 — April 2026)
+
+**Paywall keyboard and pricing fixes.**
+
+The keyboard was covering the promo code input on the paywall — fixed, so you can actually see what you're typing. The monthly price now falls back correctly when the default isn't available.
+
+---
+
 ## Build 74 (v1.0.3 — April 2026)
 
 **Milestones, a faster coach, and smarter routine prompts.**
