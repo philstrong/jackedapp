@@ -1,6 +1,6 @@
 # Jacked — Release Notes
 
-## Build 78 (v1.0.4 — April 2026)
+## Build 79 (v1.0.4 — April 2026)
 
 **Rest timer now taps your shoulder.**
 
