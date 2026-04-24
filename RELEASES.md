@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 80 (v1.0.4 — April 2026)
+
+**Under-the-hood stability fix.**
+
+No new features — this build fixes a reliability issue with page-view tracking that could cause data to be lost when the app was closed mid-request. No visible changes.
+
+---
+
 ## Build 79 (v1.0.4 — April 2026)
 
 **Rest timer now taps your shoulder.**
