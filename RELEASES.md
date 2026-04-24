@@ -1,5 +1,21 @@
 # Jacked — Release Notes
 
+## Build 77 (v1.0.4 — April 2026)
+
+**Stability update.**
+
+No new features in this build — same as build 76. Version bump for App Store submission.
+
+---
+
+## Build 76 (v1.0.3 — April 2026)
+
+**History filters, sharper icons, and a cleaner splash.**
+
+The History tab now has filter chips so you can quickly narrow to Push, Pull, or Lower sessions. The workout picker shows which type you last did and flags any session that's still in progress. Icons across the app are now crisp vector graphics instead of PNGs — noticeably cleaner on all screen sizes. The splash screen wordmark got a few polish fixes too.
+
+---
+
 ## Build 75 (v1.0.3 — April 2026)
 
 **Paywall keyboard and pricing fixes.**
