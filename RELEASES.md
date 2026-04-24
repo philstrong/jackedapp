@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 78 (v1.0.4 — April 2026)
+
+**Rest timer now taps your shoulder.**
+
+When a set is logged, Jacked schedules a local notification so you know when rest is up — even if the app is in the background. You'll be asked for notification permission once after onboarding. Onboarding itself has been fixed so it only shows on your very first launch, not every time you open the app.
+
+---
+
 ## Build 77 (v1.0.4 — April 2026)
 
 **Stability update.**
