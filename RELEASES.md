@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 84 (v1.0.4 — April 2026)
+
+**Onboarding refinements.**
+
+The new onboarding screens got a second pass to lock in the details — a close button in the top-right so you can skip at any point, a back link under each CTA so it's easy to step back, and type and button copy tightened up to match the final design.
+
+---
+
 ## Build 83 (v1.0.4 — April 2026)
 
 **New onboarding and a livelier splash screen.**
