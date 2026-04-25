@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 83 (v1.0.4 — April 2026)
+
+**New onboarding and a livelier splash screen.**
+
+The onboarding flow has been fully redesigned — four screens that show the real app UI so you know exactly what you're getting before you start. The splash screen now has a sparkle pop animation as the wordmark and tagline come in. Copy and type details throughout onboarding have also been tightened up to match the final design.
+
+---
+
 ## Build 82 (v1.0.4 — April 2026)
 
 **Chat input bar touchup.**
