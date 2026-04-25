@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 81 (v1.0.4 — April 2026)
+
+**Visual polish across Train, History, and Profile.**
+
+The Train, History, and Profile tabs have been pixel-matched to the latest design — tighter spacing, better alignment, and cleaner type across all three screens. Also fixed a cosmetic glitch where a blank message bubble would briefly appear in the chat after you sent a message.
+
+---
+
 ## Build 80 (v1.0.4 — April 2026)
 
 **Under-the-hood stability fix.**
