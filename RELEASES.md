@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 82 (v1.0.4 — April 2026)
+
+**Chat input bar touchup.**
+
+The send button, play button, and input pill at the bottom of the chat screen now match the design exactly — correct sizes, colors, and borders. Nothing functionally changed, just looks crisper.
+
+---
+
 ## Build 81 (v1.0.4 — April 2026)
 
 **Visual polish across Train, History, and Profile.**
