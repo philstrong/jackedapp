@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 85 (v1.0.4 — April 2026)
+
+**Build your own workout programs.**
+
+Workout Plans is now available as a preview — enable it in Profile → About You to get started. You can create and manage custom training programs, and each plan has its own coach you can chat with to add, swap, or remove exercises. Your session coach also now knows about your plans, so it can reference them while you're mid-workout. A handful of plan-editor fixes landed too: the exercise list stays visible while you edit, auto-scroll no longer fights you during streaming replies, and the coach handles edge cases (like removing an exercise that's already gone) gracefully.
+
+---
+
 ## Build 84 (v1.0.4 — April 2026)
 
 **Onboarding refinements.**
