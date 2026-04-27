@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 86 (v1.0.4 — April 2026)
+
+**Onboarding layout fix for smaller phones.**
+
+The onboarding screens were overflowing on compact devices like the iPhone SE and iPhone 14. Fixed — everything fits cleanly regardless of screen size.
+
+---
+
 ## Build 85 (v1.0.4 — April 2026)
 
 **Build your own workout programs.**
