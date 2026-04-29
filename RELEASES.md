@@ -1,5 +1,23 @@
 # Jacked — Release Notes
 
+## Build 88 (v1.1.0 — April 2026)
+
+**Shorthand logging and smarter offline catch-up.**
+
+Type "4x8x225" and the coach now logs four sets of 8 at 225 without asking what you meant — standard shorthand just works. If you trained offline or logged somewhere else, you can now dump your whole workout at once and the coach logs everything immediately, then gives you a quick summary instead of checking in set by set. Also fixed: set cards were disappearing when iOS backgrounded and restarted the app mid-session — they now survive the restore correctly.
+
+---
+
+## Build 87 (v1.1.0 — April 2026)
+
+**Smarter progression coaching and Workout Plans polish.**
+
+The coach now tracks your progression data and calls out weight increases at exactly the right moment — when you've nailed the rep target, it tells you to add weight next set. It's also less verbose about it: one sentence, no lectures. Your workout plan exercises are seeded into the session from the start, so the coach knows your program before you say a word. History now labels each session with the plan name, and the plan editor was upgraded to use the same input bar as the main chat.
+
+Also fixed: autocorrect swapping text after you tapped Send, and a workout picker label that was getting clipped.
+
+---
+
 ## Build 86 (v1.0.4 — April 2026)
 
 **Onboarding layout fix for smaller phones.**
