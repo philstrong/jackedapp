@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 90 (v1.1.0 — April 2026)
+
+**Paywall clarity, smarter rotation with custom plans, and onboarding polish.**
+
+The paywall now spells out exactly how long your free trial lasts, and the monthly and yearly cards line up visually so they're easier to compare side by side. If you've turned on custom workout programs, the coach now recommends your next session in the order you set — instead of falling back to the default push/pull/lower rotation. Modal sheets are fully opaque again (the translucent look was letting the wrong things bleed through), while chat cards stay translucent as designed. Onboarding's "How did you hear about us?" picker also got proper social icons, an App Store option, and tighter card spacing.
+
+---
+
 ## Build 89 (v1.1.0 — April 2026)
 
 **Sessions survive app reloads, plus a new onboarding question.**
