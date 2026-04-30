@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 89 (v1.1.0 — April 2026)
+
+**Sessions survive app reloads, plus a new onboarding question.**
+
+If iOS reloaded the app mid-workout, your conversation with the coach used to reset — now the full chat history comes back exactly where you left it, alongside the set cards and plan exercises that already persisted. Plan exercises now restore for everyone on reload, not just users on the preview flag. Onboarding also adds a quick "How did you hear about us?" picker so we can learn what's working.
+
+---
+
 ## Build 88 (v1.1.0 — April 2026)
 
 **Shorthand logging and smarter offline catch-up.**
