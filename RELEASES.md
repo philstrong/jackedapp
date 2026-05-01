@@ -1,5 +1,23 @@
 # Jacked — Release Notes
 
+## Build 92 (v1.1.1 — May 2026)
+
+**Behind-the-scenes tracking.**
+
+No visible changes in this build. We added attribution to paywall view tracking so we can see how conversion varies by where users come from (App Store, social, friend, etc.) and keep tightening onboarding. Version bumped to 1.1.1.
+
+---
+
+## Build 91 (v1.1.0 — May 2026)
+
+**Redesigned History edit, smarter progression, and a cleaner About You.**
+
+Editing a past session now opens a full-height sheet that matches the redesign — a workout summary up top, cleaner exercise and set rows, an overflow menu in the header (where Delete Workout now lives), and an Undo toast if you remove a set by mistake. On an active session, each exercise has a "Tell Coach" shortcut that hops over to chat with the exercise pre-mentioned. Progression coaching no longer assumes you train in a fixed rep range — it now reads your own history to decide bump, hold, or drop, so a flat 6/6/6 or 12/12/12 both register as "weight's too easy" without any setup. The About You sheet was rebuilt: weight and height share a row, height shows ft/in inline, and age is now stored as birth month + year (we don't ask for the day) so it stays accurate as you get older.
+
+Also fixed: plan names like "Pull" now render the correct color in History instead of grey, the onboarding X button no longer clips the status bar, and returning users aren't blocked on the "How did you hear about us?" screen.
+
+---
+
 ## Build 90 (v1.1.0 — April 2026)
 
 **Paywall clarity, smarter rotation with custom plans, and onboarding polish.**
