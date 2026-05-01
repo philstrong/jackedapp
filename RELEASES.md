@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 93 (v1.1.1 — May 2026)
+
+**More behind-the-scenes tracking.**
+
+No visible changes in this build. We added a per-user event trail so we can see exactly where people drop off between install, onboarding, and paywall — which helps us figure out what's tripping non-converters up and fix it. No new data is collected from you that wasn't already; we're just putting it in one place so it's actually useful.
+
+---
+
 ## Build 92 (v1.1.1 — May 2026)
 
 **Behind-the-scenes tracking.**
