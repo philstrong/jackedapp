@@ -1,5 +1,21 @@
 # Jacked — Release Notes
 
+## Build 95 (v1.1.2 — May 2026)
+
+**Tap a Jacked link, land in the app.**
+
+Links to `jackedapp.ai/open` now open the Jacked app directly if you have it installed, instead of bouncing through Safari. If the app isn't installed (or you're on Android or desktop), the same link falls back to a friendly page with an App Store button. The rest of this build is behind-the-scenes infrastructure — staging environment cleanup, sturdier RevenueCat plumbing, and email-template fixes — none of it user-visible.
+
+---
+
+## Build 94 (v1.1.2 — May 2026)
+
+**Redesigned paywall and a shorthand-logging fix.**
+
+The paywall has a new look — a clearer headline ("Show up. We handle the rest."), a 12-week dot grid that shows the system at a glance, and three stat cards that explain what you actually get. Monthly and yearly are now a clean toggle with the 17% savings called out, and the whole thing fits without scrolling on every iPhone size. Also fixed: typing shorthand like "2x10x70" mid-session was only logging one set instead of two — the coach now correctly logs every set when you use that format.
+
+---
+
 ## Build 93 (v1.1.1 — May 2026)
 
 **More behind-the-scenes tracking.**
