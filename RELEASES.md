@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 99 (v1.1.2 — May 2026)
+
+**Workout Plans preview is open to everyone.**
+
+The "Workout Plans (preview)" toggle in Profile → About You is no longer gated to early-access testers — anyone signed in can flip it on and start building custom training programs. The feature itself is still opt-in, so nothing changes if you don't turn it on.
+
+---
+
 ## Build 98 (v1.1.2 — May 2026)
 
 **History in your colors, and the coach knows your plan.**
