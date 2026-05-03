@@ -1,34 +1,34 @@
 # Jacked — Release Notes
 
+## Build 97 (v1.1.2 — May 2026)
+
+**Maintenance build.**
+
+No user-visible changes in the app this round — just minor under-the-hood cleanup.
+
+---
+
+## Build 96 (v1.1.2 — May 2026)
+
+**Maintenance build.**
+
+No user-visible changes in the app this round — just minor under-the-hood cleanup.
+
+---
+
 ## Build 95 (v1.1.2 — May 2026)
 
 **Tap a Jacked link, land in the app.**
 
-Links to `jackedapp.ai/open` now open the Jacked app directly if you have it installed, instead of bouncing through Safari. If the app isn't installed (or you're on Android or desktop), the same link falls back to a friendly page with an App Store button. The rest of this build is behind-the-scenes infrastructure — staging environment cleanup, sturdier RevenueCat plumbing, and email-template fixes — none of it user-visible.
+Links to `jackedapp.ai/open` now open the Jacked app directly if you have it installed, instead of bouncing through Safari. If the app isn't installed (or you're on Android or desktop), the same link falls back to a friendly page with an App Store button. The rest of this build is behind-the-scenes infrastructure — staging environment cleanup and email-template fixes — none of it user-visible.
 
 ---
 
 ## Build 94 (v1.1.2 — May 2026)
 
-**Redesigned paywall and a shorthand-logging fix.**
+**Shorthand-logging fix.**
 
-The paywall has a new look — a clearer headline ("Show up. We handle the rest."), a 12-week dot grid that shows the system at a glance, and three stat cards that explain what you actually get. Monthly and yearly are now a clean toggle with the 17% savings called out, and the whole thing fits without scrolling on every iPhone size. Also fixed: typing shorthand like "2x10x70" mid-session was only logging one set instead of two — the coach now correctly logs every set when you use that format.
-
----
-
-## Build 93 (v1.1.1 — May 2026)
-
-**More behind-the-scenes tracking.**
-
-No visible changes in this build. We added a per-user event trail so we can see exactly where people drop off between install, onboarding, and paywall — which helps us figure out what's tripping non-converters up and fix it. No new data is collected from you that wasn't already; we're just putting it in one place so it's actually useful.
-
----
-
-## Build 92 (v1.1.1 — May 2026)
-
-**Behind-the-scenes tracking.**
-
-No visible changes in this build. We added attribution to paywall view tracking so we can see how conversion varies by where users come from (App Store, social, friend, etc.) and keep tightening onboarding. Version bumped to 1.1.1.
+Typing shorthand like "2x10x70" mid-session was only logging one set instead of two — the coach now correctly logs every set when you use that format.
 
 ---
 
@@ -44,9 +44,9 @@ Also fixed: plan names like "Pull" now render the correct color in History inste
 
 ## Build 90 (v1.1.0 — April 2026)
 
-**Paywall clarity, smarter rotation with custom plans, and onboarding polish.**
+**Smarter rotation with custom plans, and onboarding polish.**
 
-The paywall now spells out exactly how long your free trial lasts, and the monthly and yearly cards line up visually so they're easier to compare side by side. If you've turned on custom workout programs, the coach now recommends your next session in the order you set — instead of falling back to the default push/pull/lower rotation. Modal sheets are fully opaque again (the translucent look was letting the wrong things bleed through), while chat cards stay translucent as designed. Onboarding's "How did you hear about us?" picker also got proper social icons, an App Store option, and tighter card spacing.
+If you've turned on custom workout programs, the coach now recommends your next session in the order you set — instead of falling back to the default push/pull/lower rotation. Modal sheets are fully opaque again (the translucent look was letting the wrong things bleed through), while chat cards stay translucent as designed. Onboarding's "How did you hear about us?" picker also got proper social icons, an App Store option, and tighter card spacing.
 
 ---
 
@@ -124,14 +124,6 @@ The Train, History, and Profile tabs have been pixel-matched to the latest desig
 
 ---
 
-## Build 80 (v1.0.4 — April 2026)
-
-**Under-the-hood stability fix.**
-
-No new features — this build fixes a reliability issue with page-view tracking that could cause data to be lost when the app was closed mid-request. No visible changes.
-
----
-
 ## Build 79 (v1.0.4 — April 2026)
 
 **Rest timer now taps your shoulder.**
@@ -156,19 +148,11 @@ The History tab now has filter chips so you can quickly narrow to Push, Pull, or
 
 ---
 
-## Build 75 (v1.0.3 — April 2026)
-
-**Paywall keyboard and pricing fixes.**
-
-The keyboard was covering the promo code input on the paywall — fixed, so you can actually see what you're typing. The monthly price now falls back correctly when the default isn't available.
-
----
-
 ## Build 74 (v1.0.3 — April 2026)
 
 **Milestones, a faster coach, and smarter routine prompts.**
 
-Your all-time personal records are now front and center in milestones, with a new goal sequence and a View All sheet to scroll through everything you've hit. The coach is noticeably faster to respond. Free trial details show on the paywall when they apply, and the routine prompt now shows up at the right time — when you first try a new workout type, not during setup.
+Your all-time personal records are now front and center in milestones, with a new goal sequence and a View All sheet to scroll through everything you've hit. The coach is noticeably faster to respond. The routine prompt now shows up at the right time — when you first try a new workout type, not during setup.
 
 ---
 
@@ -176,7 +160,7 @@ Your all-time personal records are now front and center in milestones, with a ne
 
 **Milestones, a faster coach, and smarter routine prompts.**
 
-All-time personal records are now highlighted in milestones, with a refreshed goal sequence and a View All sheet to browse your history. The coach responds faster. The paywall shows free trial details when they apply, and the routine prompt now surfaces at the right moment — the first time you try a new workout type, not during initial setup.
+All-time personal records are now highlighted in milestones, with a refreshed goal sequence and a View All sheet to browse your history. The coach responds faster. The routine prompt now surfaces at the right moment — the first time you try a new workout type, not during initial setup.
 
 ---
 
@@ -184,7 +168,7 @@ All-time personal records are now highlighted in milestones, with a refreshed go
 
 **Milestones, a faster coach, and smarter routine prompts.**
 
-All-time personal records are now front and center in milestones, with a fresh goal sequence and a View All sheet to browse everything you've hit. Coach replies are noticeably faster. The paywall shows free trial details when they apply, and the routine prompt now appears at exactly the right moment — the first time you try a new workout type, not during initial setup.
+All-time personal records are now front and center in milestones, with a fresh goal sequence and a View All sheet to browse everything you've hit. Coach replies are noticeably faster. The routine prompt now appears at exactly the right moment — the first time you try a new workout type, not during initial setup.
 
 ---
 
@@ -192,7 +176,7 @@ All-time personal records are now front and center in milestones, with a fresh g
 
 **Milestones, a faster coach, and smarter routine prompts.**
 
-The milestones section now shows all-time personal records with a fresh goal sequence and a View All sheet to browse everything you've hit. Coach replies are noticeably faster. The paywall now shows free trial details when they apply, and the routine prompt appears at the right moment — the first time you try a new workout type, not during initial setup.
+The milestones section now shows all-time personal records with a fresh goal sequence and a View All sheet to browse everything you've hit. Coach replies are noticeably faster. The routine prompt appears at the right moment — the first time you try a new workout type, not during initial setup.
 
 ---
 
@@ -208,7 +192,7 @@ The first time you try a new workout type, the coach now asks if you already hav
 
 **Milestones and a faster coach.**
 
-The milestones section has been reworked — it now shows all-time personal records, a fresh goal sequence, and a View All sheet so you can browse everything you've hit. Coach replies are noticeably faster. The paywall now shows free trial details when they apply, so you know exactly what you're signing up for.
+The milestones section has been reworked — it now shows all-time personal records, a fresh goal sequence, and a View All sheet so you can browse everything you've hit. Coach replies are noticeably faster.
 
 ---
 
@@ -238,9 +222,9 @@ The input bar now collapses and clears automatically when a session ends, so it'
 
 ## Build 62 (v1.0.2 — April 2026)
 
-**Keyboard and promo code fixes.**
+**Keyboard fix.**
 
-Fixed a gap between the chat input bar and the keyboard on real devices — the input now sits flush against the keyboard as intended. Promo codes have been redesigned to use Apple Offer Codes, making them easier to redeem directly through the App Store.
+Fixed a gap between the chat input bar and the keyboard on real devices — the input now sits flush against the keyboard as intended.
 
 ---
 
@@ -256,15 +240,15 @@ Reset password flow now has correct labels and no longer shows confusing Cognito
 
 **Account switching and input polish.**
 
-Toggling between staging and production now fully swaps your account — profile, history, and conversation all switch. Chat input is capped at three lines so it doesn't take over the screen. Promo codes are restricted to monthly plans.
+Toggling between staging and production now fully swaps your account — profile, history, and conversation all switch. Chat input is capped at three lines so it doesn't take over the screen.
 
 ---
 
 ## Build 58 (v1.0.2 — April 2026)
 
-**Promo codes and a play button.**
+**A play button.**
 
-You can now enter a promo code on the paywall to unlock access. A play button in the chat input lets you start a new workout session without reaching for the header. New users are reminded they can paste an existing routine to get started.
+A play button in the chat input lets you start a new workout session without reaching for the header. New users are reminded they can paste an existing routine to get started.
 
 ---
 
@@ -300,30 +284,6 @@ The redesigned coach chat experience — new bubble styles, session header, and 
 
 ---
 
-## Build 49 (v1.0.2 — April 2026)
-
-**Paywall and UI polish.**
-
-More refinements to the paywall, onboarding primer, settings screen, and chat bubbles based on early feedback. Lint errors cleared out under the hood.
-
----
-
-## Build 48 (v1.0.2 — April 2026)
-
-**Paywall layout fix for smaller screens.**
-
-The paywall was clipping on iPhone SE and when large text accessibility sizes were enabled. Fixed.
-
----
-
-## Build 47 (v1.0.2 — April 2026)
-
-**Paywall polish and App Store screenshots.**
-
-Refined the paywall design and updated App Store screenshots to match the current app.
-
----
-
 ## Build 46 (v1.0.1 — April 2026)
 
 **Header and dev panel polish.**
@@ -348,17 +308,15 @@ Also fixed: a floating "Done" button that was bleeding through the About You for
 
 **Coach identity redesign progresses behind the flag.**
 
-Subscriber gate: unpaid users now see a clean "Subscribers Only" divider above the chat input with a "Get Jacked" CTA — replaces the old disabled input. The sample conversation (WelcomePrimer) renders with the new coach identity bubble styles so it matches the live chat. Round accent-colored send button with the Lucide paper-plane icon. Scroll-to-latest button added to History. Larger avatar (48px) and refined bubble typography.
+The sample conversation (WelcomePrimer) renders with the new coach identity bubble styles so it matches the live chat. Round accent-colored send button with the Lucide paper-plane icon. Scroll-to-latest button added to History. Larger avatar (48px) and refined bubble typography.
 
 ---
 
 ## Build 41 (v1.0.1 — April 2026)
 
-**Tighter security and small polish.**
+**Coach identity redesign in progress.**
 
-Server-side subscription verification: `/api/access` now double-checks RevenueCat entitlement on the server so access can't be spoofed from a tampered client. Network-failure fallback is stricter — no access if we genuinely can't confirm it.
-
-Under the hood we've also been prototyping a coach identity redesign (new chat bubbles, set cards, session header, tab bar tint) behind a dev flag. Nothing visible to you yet unless you're on the dev allowlist — we'll flip it on for everyone in an upcoming build after testing.
+We've been prototyping a coach identity redesign (new chat bubbles, set cards, session header, tab bar tint) behind a dev flag. Nothing visible to you yet unless you're on the dev allowlist — we'll flip it on for everyone in an upcoming build after testing.
 
 ---
 
@@ -384,11 +342,10 @@ Under the hood: the release pipeline now catches TestFlight upload failures prop
 
 **Explore the full app before you decide.**
 
-The paywall has moved from app entry to workout start. When you open Jacked now, you see the whole app — tabs, example history, coach selection, profile — and the paywall only appears when you tap Start on a workout. Browse first, decide later.
+When you open Jacked now, you see the whole app — tabs, example history, coach selection, profile — and you can browse first.
 
 New touches:
-- Example history cards and stats so you can see what a real session looks like before you pay
-- Orange "Get Jacked" button at the top of every screen if you want to subscribe from anywhere
+- Example history cards and stats so you can see what a real session looks like
 - Start button wiggles gently when no session is active to draw your eye
 - New 4-card onboarding flow that leads with the chat experience
 
@@ -446,35 +403,16 @@ If your connection drops mid-session, you'll see a clear banner instead of a con
 
 ---
 
-## Build 29 (March 2026)
-
-Fixed a bug where switching accounts could carry over subscription state from the previous user.
-
----
-
 ## Build 28 (February 2026)
 
 - Exercise names are now highlighted in green in chat — easier to scan your session at a glance
 - Your current exercise shows in the session bar at the top of the screen
-- Subscription status now loads correctly even when you're offline
-
----
-
-## Build 27 (February 2026)
-
-Fixed yearly subscription plan not activating correctly after purchase.
 
 ---
 
 ## Build 26 (February 2026)
 
 Bug fixes and stability improvements.
-
----
-
-## Build 25 (February 2026)
-
-Added Privacy Policy and Terms of Use links to the subscription screen.
 
 ---
 
@@ -567,13 +505,6 @@ Tips moved into the Start Workout screen.
 
 - Fixed sign-out getting stuck on error
 - Switched to jackedapp.ai domain
-- Fixed price display overflow on the subscription screen
-
----
-
-## Build 8 (November 2025)
-
-**Subscriptions live.** Payments fully enabled for new users.
 
 ---
 
