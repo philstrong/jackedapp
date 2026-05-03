@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 98 (v1.1.2 — May 2026)
+
+**History in your colors, and the coach knows your plan.**
+
+If you've set up custom workout types, History now uses your colors for both the chips on each card and a tinted card background that matches — much easier to scan at a glance. The coach also reads your active workout plan from the first message of a session, so it knows your program without you having to spell it out. Plan editing is now locked while a session is live, so a mid-workout edit can't confuse the coach — finish the session, then edit.
+
+---
+
 ## Build 97 (v1.1.2 — May 2026)
 
 **Maintenance build.**
