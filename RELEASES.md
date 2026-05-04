@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 100 (v1.1.2 — May 2026)
+
+**The coach logs everything and stops mistaking warmups for working sets.**
+
+If you report an exercise that isn't on today's plan, the coach now just logs it and moves on instead of pushing back — extra work and substitutions count. Warmup sets are also kept separate from working sets when the coach decides whether to bump weight, hold, or drop, so a few light primer sets at the top of a session won't get read as a collapse and trigger a false drop. Recaps split warmups out from working sets too, so the volume you actually did is easier to see.
+
+---
+
 ## Build 99 (v1.1.2 — May 2026)
 
 **Workout Plans preview is open to everyone.**
