@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 101 (v1.1.2 — May 2026)
+
+**Workout Plans preview is back to early access only.**
+
+The "Workout Plans (preview)" toggle in Profile → About You is gated to early-access testers again while we keep iterating on it. If you don't have early access, the toggle won't appear — your existing workouts and coaching are unaffected.
+
+---
+
 ## Build 100 (v1.1.2 — May 2026)
 
 **The coach logs everything and stops mistaking warmups for working sets.**
