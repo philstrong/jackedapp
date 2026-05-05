@@ -1,5 +1,23 @@
 # Jacked — Release Notes
 
+## Build 103 (v1.1.4 — May 2026)
+
+**Coach only logs a set when you report one.**
+
+Follow-up to last build's bootstrap fix: the trigger to log a set is now strictly *your* last message, not anything the coach itself said. So if the coach recaps "nice, that's three sets of squats" or otherwise narrates back to you, it won't double-log — only your own reports count.
+
+---
+
+## Build 102 (v1.1.3 — May 2026)
+
+**Workout Plans, properly: build a program from a real exercise library.**
+
+Plans now has its own tab, with a structured editor instead of a chat builder — pick exercises from a Strong-based library of hundreds of moves, filter by body part or category, and build out your week directly. Search is smarter too: typing "tricep p" finds "Triceps Pushdown", and results are ranked by relevance instead of alphabetical. You can add and edit your own custom exercises, and they sync across devices automatically. While a session is live the plan editor goes view-only so a mid-workout edit can't confuse the coach — finish the session, then edit.
+
+The coach got a few fixes: it can now delete a set if it logs the wrong one, it knows which category each plan exercise is (so it coaches a Lat Pulldown like a pulldown, not a generic lift), and it won't auto-log a "walk" on the very first message of a session anymore.
+
+---
+
 ## Build 101 (v1.1.2 — May 2026)
 
 **Workout Plans preview is back to early access only.**
