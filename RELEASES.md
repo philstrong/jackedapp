@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 104 (v1.1.4 — May 2026)
+
+**Maintenance build.**
+
+No user-visible changes in the app this round — just minor under-the-hood cleanup.
+
+---
+
 ## Build 103 (v1.1.4 — May 2026)
 
 **Coach only logs a set when you report one.**
