@@ -1,5 +1,15 @@
 # Jacked — Release Notes
 
+## Build 107 (v1.1.5 — May 2026)
+
+**Plans is easier to find, and the session subtitle stops lying.**
+
+If you're in the early-access group, Plans is now surfaced where you'd actually look for it: a hint on the first-time welcome card, and a clearer cog on the "Choose Workout" modal so you can jump straight into the editor. The default Push/Pull/Lower template now has a small info icon next to Reset to Default that explains the thinking behind it — compound lifts, recovery between workouts, progressive overload — for anyone curious about the shape of their starter plan.
+
+Bug fix: when you started a session on a custom workout type (say, "Ben"), the subtitle on the session card sometimes read "Lower day" or whatever the next-up suggestion was, even though the coach was correctly working on Ben. It now reads the workout you're actually in.
+
+---
+
 ## Build 106 (v1.1.5 — May 2026)
 
 **The coach stops logging sets — a silent scribe takes over.**
