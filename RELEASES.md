@@ -1,5 +1,17 @@
 # Jacked — Release Notes
 
+## Build 106 (v1.1.5 — May 2026)
+
+**The coach stops logging sets — a silent scribe takes over.**
+
+Logging now runs in parallel as its own background agent, so the coach can focus on talking instead of juggling tool calls. The set chip appears right after the coach's reply, and you won't see double-logs or stray recaps of what was just logged.
+
+Cardio is cleaner too: the coach won't invent a distance or duration when you only give it one, and a correction now merges into the existing set instead of overwriting it (so fixing the weight doesn't wipe the duration).
+
+Plans got a rename action via a bottom sheet, with a heads-up if the change would affect your history. Sync is sturdier — your program won't get clobbered on login, pending uploads retry with backoff, and anything queued while offline replays on reconnect. Smaller polish: empty plans are skipped when recommending the next workout, the coach won't keep nagging you to tap Finish after you already did, and new users get a refreshed Push/Pull/Lower seed.
+
+---
+
 ## Build 104 (v1.1.4 — May 2026)
 
 **Maintenance build.**
