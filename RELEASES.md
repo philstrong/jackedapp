@@ -1,5 +1,17 @@
 # Jacked — Release Notes
 
+## Build 109 (v1.1.6 — May 2026)
+
+**You can export your data, and the coach actually knows the plan.**
+
+There's a new "Export History" option in Settings that dumps your entire workout history to a CSV file — exercises, sets, weights, units, and all. Share it, graph it, back it up, whatever you want.
+
+The coach now opens each session with a quick preview of what's on deck ("4 sets of bench, 3 sets of rows…") and tracks your progress against those targets as you go, so it knows when you've hit your planned volume and when there's more to do. The preview is concise — just exercises and set counts, no weight chatter.
+
+A handful of miscategorized exercises in the library have been corrected, and the first-time experience got a pass to make Train, History, Plans, and Profile each feel useful from the jump instead of mostly empty.
+
+---
+
 ## Build 107 (v1.1.5 — May 2026)
 
 **Plans is easier to find, and the session subtitle stops lying.**
