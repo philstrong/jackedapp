@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 110 (v1.1.6 — May 2026)
+
+**The scribe stops double-logging your sets.**
+
+If you rattled off a few sets in quick succession, the background logging agent would sometimes re-log sets it had already saved — it was seeing old messages and didn't know what was already recorded. That's fixed: the scribe now only looks at the most recent exchange and knows exactly which sets exist, so each rep report is logged once and only once.
+
+---
+
 ## Build 109 (v1.1.6 — May 2026)
 
 **You can export your data, and the coach actually knows the plan.**
