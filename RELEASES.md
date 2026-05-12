@@ -1,5 +1,15 @@
 # Jacked — Release Notes
 
+## Build 111 (v1.1.6 — May 2026)
+
+**Train got a visual tune-up.**
+
+The chat surface now follows the latest design system: user and coach bubbles share the same shape and padding, with a thin colored stripe down the left side carrying each side's identity color instead of filling the whole bubble. Set cards got the same treatment — one consistent style with a green left rail and a simple ✓, whether you're in a real session or the welcome demo.
+
+The input bar is clearer about state too: a play button when you're ready to start, a dimmed send icon when the input is empty, and a bright send arrow once you start typing. The Start Session button picks up your coach's accent color (orange for Biff, yellow for Kelly), and the bottom tab bar now tints to match your coach as well.
+
+---
+
 ## Build 110 (v1.1.6 — May 2026)
 
 **The scribe stops double-logging your sets.**
