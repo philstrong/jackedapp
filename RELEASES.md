@@ -1,5 +1,23 @@
 # Jacked — Release Notes
 
+## Build 113 (v1.1.6 — May 2026)
+
+**Maintenance build.**
+
+No user-visible changes this round — just behind-the-scenes work on the scribe's test harness and prod transcript capture so we can keep tuning it from real sessions.
+
+---
+
+## Build 112 (v1.1.6 — May 2026)
+
+**Corrections actually stick, and the silent scribe is now on for everyone.**
+
+If you fixed a set after logging it ("actually that was 185, not 175"), the History tab updated but the set card in chat kept showing the old number — so the chat looked like it had ignored you. The card now updates in place when you correct or delete a set, with a small edited indicator so you can see the change took. Deleting a set also renumbers the cards after it so the indices match what History shows.
+
+The background scribe — the silent logging agent introduced a few builds back — is now running for everyone, not just early access. Alongside that, it got noticeably sharper: it stops misreading a correction as a brand-new set, ignores meta-talk like "remind me when I'm done" or "stop logging" instead of trying to file it as a workout, and does a better job telling who said what in a fast-moving exchange.
+
+---
+
 ## Build 111 (v1.1.6 — May 2026)
 
 **Train got a visual tune-up.**
