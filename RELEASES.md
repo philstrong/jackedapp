@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 115 (v1.2.0 — May 2026)
+
+**The coach notices what you skipped, and the scribe stops double-logging follow-up sets.**
+
+If your plan had four exercises and you only got through two before wrapping, the coach now flags the un-started ones at session close instead of letting them slip by quietly. The silent scribe got another duplicate-log fix — it was occasionally re-logging follow-up sets in the same exercise; now it sees full session state and only files each set once. Small UI polish: the coach avatar is the same size across Train, History, Plans, and Settings.
+
+---
+
 ## Build 114 (v1.2.0 — May 2026)
 
 **Plans is out of early access — everyone gets it.**
