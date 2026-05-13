@@ -1,5 +1,15 @@
 # Jacked — Release Notes
 
+## Build 114 (v1.2.0 — May 2026)
+
+**Plans is out of early access — everyone gets it.**
+
+Workout plans are now available to all users, not just the early-access group. The Plans tab is on by default and the old "Enable Plans (Preview)" toggle has been removed from Settings since there's nothing left to toggle. The version bump to 1.2.0 marks the milestone — Plans has graduated from preview to a first-class part of the app.
+
+Under the hood, the silent scribe got another sharpening: a prod failure where it would tag a bare rep against the wrong exercise mid-multi-set is fixed by a tighter prompt that keeps it locked onto the active exercise.
+
+---
+
 ## Build 113 (v1.1.6 — May 2026)
 
 **Maintenance build.**
