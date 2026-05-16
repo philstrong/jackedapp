@@ -1,5 +1,25 @@
 # Jacked — Release Notes
 
+## Build 117 (v1.2.0 — May 2026)
+
+**Maintenance build.**
+
+No user-visible changes this round — a republish on top of build 116 with the same feature set.
+
+---
+
+## Build 116 (v1.2.0 — May 2026)
+
+**A boxing bell when your rest ends, and set cards that show what they are.**
+
+If you're in early access, there's a new Rest Timer Bell toggle in Settings — flip it on and the rest period ends with a quick boxing-bell ding so you don't have to keep glancing at the phone. Toggling it on plays a preview right then, which doubles as a check that your device isn't on silent.
+
+Logged set cards now carry a small metadata strip — a colored category eyebrow (DUMBBELL, REPS ONLY, DURATION, etc.) plus body-part dot chips — matching the look of the plans editor, so a glance at the card tells you what kind of movement it was.
+
+The coach stops asking how long you want to do cardio up front; it now proposes a specific duration based on what you've done in recent sessions instead of making you commit before the warmup. The silent scribe got a bulk-log tool so a quick "did 5x5 at 185, then 3x10 at 135" files in one shot instead of one call per set, and references to internal tools and agents no longer slip into the coach's replies.
+
+---
+
 ## Build 115 (v1.2.0 — May 2026)
 
 **The coach notices what you skipped, and the scribe stops double-logging follow-up sets.**
