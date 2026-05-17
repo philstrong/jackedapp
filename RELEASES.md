@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 118 (v1.2.0 — May 2026)
+
+**The rest-timer bell rings on time, every time.**
+
+The boxing-bell sound is now loaded into memory the moment the app starts, so the first ding of a session fires the instant your rest ends instead of after a brief lag while the file decoded. Subsequent rings were already snappy — this brings the first one in line.
+
+---
+
 ## Build 117 (v1.2.0 — May 2026)
 
 **Maintenance build.**
