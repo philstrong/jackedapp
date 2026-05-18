@@ -1,5 +1,15 @@
 # Jacked — Release Notes
 
+## Build 119 (v1.2.1 — May 2026)
+
+**The rest-timer bell rings through a locked phone, and it stops pausing your music.**
+
+The bell now fires as a local notification when the app isn't in front, so you'll hear it whether the phone is locked, in your pocket, or you've swiped over to Spotify. While the app is foregrounded, audio playback now mixes with whatever else is playing instead of taking over the audio session — your music keeps going, the chime layers on top.
+
+If you're in early access, past sessions are now editable from History: tap a set to inline-edit, "+ Add set" to append one prefilled from your last, or "+ Add exercise" to attach a movement you forgot to log. A nagging sync bug is also fixed — deleting a custom exercise or plan entry no longer resurrects it on the next launch. Small polish: the keyboard now dismisses when you drag the chat list or the exercise picker, and the plans editor lets you save a plan with as few as one exercise.
+
+---
+
 ## Build 118 (v1.2.0 — May 2026)
 
 **The rest-timer bell rings on time, every time.**
