@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 120 (v1.2.1 — May 2026)
+
+**No double-ding when you come back to a finished rest.**
+
+If you backgrounded the app mid-rest, the lock-screen notification already fired when the timer hit zero — but reopening the app would chime a second time as the in-app timer caught up. The in-app chime now only fires for rests that ended within the last few seconds, so a stale timer stays quiet. The haptic still pulses when you return, so you get the tactile cue without the redundant audio.
+
+---
+
 ## Build 119 (v1.2.1 — May 2026)
 
 **The rest-timer bell rings through a locked phone, and it stops pausing your music.**
