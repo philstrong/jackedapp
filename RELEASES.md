@@ -1,5 +1,17 @@
 # Jacked — Release Notes
 
+## Build 121 (v1.2.1 — May 2026)
+
+**Log a workout you forgot, fix when it happened, and a bigger chat input.**
+
+The History tab gets a "+" button for logging a past workout — pick the type, the edit modal opens pre-filled with today's date and 60 minutes, and you fill in the rest. Tapping the date on any session now lets you change when it actually started and how long it ran. Cardio rows show their unit ("2 miles", "0.5 miles") instead of a bare number, and older walks, runs, and bikes that were locked to duration-only can finally have distance edited too.
+
+The edit modal itself got a round of polish: tap outside the sheet to dismiss when you haven't changed anything, "+ Add set" starts blank instead of pre-filling your last set's reps and weight, and single-digit reps line up with double-digit ones so the column stops jittering between rows. A sync bug is also gone — edits and deletes made from History no longer get clobbered when the in-progress session finishes.
+
+In the Train tab, the chat input now holds up to three lines before scrolling inside itself, so longer messages don't get their descenders clipped at the bottom of the pill.
+
+---
+
 ## Build 120 (v1.2.1 — May 2026)
 
 **No double-ding when you come back to a finished rest.**
