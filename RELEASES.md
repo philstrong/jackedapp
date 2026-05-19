@@ -1,5 +1,15 @@
 # Jacked — Release Notes
 
+## Build 122 (v1.2.1 — May 2026)
+
+**No more double-ding, and bodyweight moves stop pretending they need weight.**
+
+Two paths could chime the rest-timer bell at the same time. If you were watching the screen when rest ended, the lock-screen banner was carrying audio on top of the in-app chime — that banner now shows silently in the foreground so only the in-app sound plays. And if you briefly tapped back into the app within a few seconds of a backgrounded ding, the in-app timer used to fire a follow-up chime; it now knows that notifee already handled the audio and stays quiet.
+
+Push-ups, ab wheel, bird dog, and other bodyweight moves no longer render a weight column in the editor or read view — they're reps-only now, which is what they always should have been. Cardio-only sessions stop showing a misleading "1 reps" or "0 reps" on the session card, since legacy walks were quietly logged with a single rep. The reps stat just disappears when there's nothing meaningful to count.
+
+---
+
 ## Build 121 (v1.2.1 — May 2026)
 
 **Log a workout you forgot, fix when it happened, and a bigger chat input.**
