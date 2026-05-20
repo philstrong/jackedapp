@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 123 (v1.2.1 — May 2026)
+
+**Editing a single-set workout no longer hides the row behind the keyboard.**
+
+When the edit-session sheet only had one set in it, tapping the reps or weight field used to scroll the row clean off the top of the screen — two different keyboard-avoidance mechanisms were both lifting the content, so the row overshot into nowhere. The sheet still rises above the keyboard, but the inner list no longer double-pushes, so the focused row stays put whether you're editing one set or twenty.
+
+---
+
 ## Build 122 (v1.2.1 — May 2026)
 
 **No more double-ding, and bodyweight moves stop pretending they need weight.**
