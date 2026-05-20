@@ -1,5 +1,17 @@
 # Jacked — Release Notes
 
+## Build 124 (v1.2.1 — May 2026)
+
+**The edit modal does its job inline, and the coach stops being coy about weight bumps.**
+
+The History edit modal got another round of polish. Typing into a reps or weight field now replaces what's there instead of appending — type "20" on a "15" and you get 20, not 1520. The add-exercise picker grows a "From your plans" section at the top, so a movement you already programmed is one tap away instead of buried in Library. The edit-timing dialog goes back to tap-outside-cancels (so a stray tap mid-spin doesn't commit a wrong date), and the date picker is finally legible on the dark sheet. The sheet itself stops overshooting when the keyboard comes up on short modals.
+
+Since the editor can now fix anything you'd want to fix, the "Tell coach about this" affordances are gone — no more tip bar, per-exercise pill, or action-sheet item routing you back into chat to describe a logging mistake you could just correct in place.
+
+On the coach side: after a session where you hit your reps flat, it now actually states the new weight it's bumping you to instead of saying "nice work, 3x10 — moving to next" and leaving you to guess. And if your set reps weren't flat — say 10/9/9 — it reports them verbatim instead of rounding to "3x10".
+
+---
+
 ## Build 123 (v1.2.1 — May 2026)
 
 **Editing a single-set workout no longer hides the row behind the keyboard.**
