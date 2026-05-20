@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 127 (v1.2.1 — May 2026)
+
+**Saving a set edit now scrolls the row back into view.**
+
+When you save an edit in the History modal — especially "+ Add set," which lands the new row at the bottom of its exercise card — the row could end up below the fold if the sheet had been scrolled up. The list now scrolls to the saved row as the dialog closes, with a bit of breathing room above so it doesn't sit flush against the summary bar. Small thing, but you get to actually see the save land.
+
+---
+
 ## Build 126 (v1.2.1 — May 2026)
 
 **The set-edit dialog stops crowding the keyboard, and the coach stops occasionally double-logging your sets.**
