@@ -1,5 +1,15 @@
 # Jacked — Release Notes
 
+## Build 125 (v1.2.1 — May 2026)
+
+**Editing a set opens a proper sheet, and the sign-in screen finally plays nice with password managers.**
+
+The History edit modal's per-set editor used to swap the row into edit mode in place, which kept fighting the keyboard for space — the focused row could scroll out of view, and the fixes for that kept reintroducing the old double-inset problem. Tapping a set now opens a small dialog over the dim layer with the reps/weight fields and Save/Cancel buttons, sitting cleanly above the keyboard every time. The row stays in read mode and is fully tappable; "+ Add set" still appends an empty set and opens the same dialog.
+
+On the auth screen, the email and password fields now advertise themselves properly to 1Password, iCloud Keychain, and the rest, so autofill suggestions actually show up. "Forgot Password?" moved out from under the email field to under the Sign In button where you'd expect it. The chat input font is also back to 16pt after a stray tweak nudged it down a couple of points earlier in this cycle.
+
+---
+
 ## Build 124 (v1.2.1 — May 2026)
 
 **The edit modal does its job inline, and the coach stops being coy about weight bumps.**
