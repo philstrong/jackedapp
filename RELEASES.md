@@ -1,5 +1,15 @@
 # Jacked — Release Notes
 
+## Build 126 (v1.2.1 — May 2026)
+
+**The set-edit dialog stops crowding the keyboard, and the coach stops occasionally double-logging your sets.**
+
+The dialog that opens when you tap a set was centering itself vertically, which left Save/Cancel pressed up against the top edge of the keyboard — fine for a weighted set with one input, cramped for a cardio set with two. It now anchors near the top of the sheet with a clear gap above the keyboard, and the first field focuses on open so you can start typing immediately.
+
+Under the hood, the coach had a path where it could log a batch of sets without going through the scribe — which meant a set you'd already logged could quietly get re-logged a second time. That route is now properly closed.
+
+---
+
 ## Build 125 (v1.2.1 — May 2026)
 
 **Editing a set opens a proper sheet, and the sign-in screen finally plays nice with password managers.**
