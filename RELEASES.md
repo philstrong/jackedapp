@@ -1,22 +1,20 @@
 # Jacked — Release Notes
 
-## Build 129 (v1.2.1 — May 2026)
+## Build 130 (v1.2.1 — May 21, 2026)
 
-<<<<<<< HEAD
-**Cardio sets in your plan log under the right name, distance shows its unit, and the chat input is back to behaving.**
-
-If your plan has "Walking" in it, the coach now logs your walk as "Walking" instead of "Walk" — so the cardio eyebrow shows up on the set card and the entry lines up with the plan. Off-plan stuff still logs freely under whatever name fits ("Burpees" doesn't get forced into the nearest plan match).
-
-Cardio set cards now render distance with its unit — "0.5 mi" instead of a bare "0.5" — so the row stops looking like a half-set of something countable.
-
-In the chat bar, the send/play button is nudged up a few pixels so it sits at the text baseline instead of low, and the character counter is hidden until you cross 4000 characters. Below that it was just noise; from 4000 on you actually want the budget signal, with the orange warning still kicking in at 4750. When it does appear, it lives inside the bar above the button instead of floating in the gap above the input.
-=======
-**A proper big-numbers editor for sets and session timing, plus a couple of chat input nits.**
+**A big-numbers editor for sets and session timing — large value, small unit, a ± stepper, preset chips, and a number pad that stays put.**
 
 Tapping a set in History now opens a redesigned editor: the value you're changing is huge and front-and-center, with a small unit beside it, a ± stepper for one-at-a-time nudges, preset chips for common jumps, and a number pad that stays put instead of fighting you for screen space. Same shell handles every kind of set — strength with reps and weight, bodyweight with just reps, assisted moves (which now correctly show the assist as a leading minus), and cardio with duration and distance. Editing when the session happened and how long it ran uses the same panel, so it all feels like one thing.
 
-On the chat input: the character counter moved back inside the bar, stacked just above the send button instead of floating above the input pill where it read as disconnected. And the counter now stays hidden until you cross 4000 characters — below that it was just noise. The play/send button also got a 3px nudge so its center actually lines up with the text baseline.
->>>>>>> c30d2c7 (Update iOS build files to build 129)
+---
+
+## Build 129 (v1.2.1 — May 2026)
+
+**The chat input is back to behaving, and cardio rows speak their own language again.**
+
+If your plan has "Walking" in it, the coach now logs your walk as "Walking" instead of "Walk" — so the cardio eyebrow shows up on the set card and the entry lines up with the plan. Off-plan stuff still logs freely under whatever name fits ("Burpees" doesn't get forced into the nearest plan match). Cardio set cards also now render distance with its unit — "0.5 mi" instead of a bare "0.5" — so the row stops looking like a half-set of something countable.
+
+On the chat input: the send/play button is nudged up a few pixels so it sits at the text baseline instead of low, and the character counter is hidden until you cross 4000 characters. Below that it was just noise; from 4000 on you actually want the budget signal, with the orange warning still kicking in at 4750. When it does appear, it lives inside the bar above the button instead of floating in the gap above the input.
 
 ---
 
