@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 134 (v1.2.1 — May 21, 2026)
+
+**Finish a set of bodyweight pull-ups or push-ups and the coach now gives you a rep target for next time instead of going quiet.**
+
+The coach's progression call only knew how to talk about weight. On a bodyweight exercise — pull-ups, push-ups, dips with no added load — it had no weight to suggest, so it just skipped the call and moved on to the next move with nothing. Knock out 5/5/4 bodyweight pull-ups now and the coach reads the same flat/descending/dropping patterns it always has, then states the next-session target on the reps axis: push for 6 next time, hold at 5, or back off — whichever the numbers say. No more silent advance, and no more nonsense "go up 5 lb" on a movement that doesn't have a weight.
+
+---
+
 ## Build 133 (v1.2.1 — May 21, 2026)
 
 **Telling the coach a set belonged to a different exercise now cleans up the wrong card and logs the right one in the same breath.**
