@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 131 (v1.2.1 — May 21, 2026)
+
+**Cardio rows from your plan now always pick up the CARDIO eyebrow, even on the first set of a fresh session.**
+
+There was a race where logging the first set of a planned cardio exercise — "Walking," say — could land without the CARDIO eyebrow or body-part chip on the set card if the exercise library hadn't finished loading yet. The name was right, the duration and distance were right, but the row looked like a plain lift. The coach now pulls that metadata straight from your plan when the library isn't ready, so the eyebrow shows up reliably from the first set on.
+
+---
+
 ## Build 130 (v1.2.1 — May 21, 2026)
 
 **A big-numbers editor for sets and session timing — large value, small unit, a ± stepper, preset chips, and a number pad that stays put.**
