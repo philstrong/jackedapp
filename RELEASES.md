@@ -1,5 +1,19 @@
 # Jacked — Release Notes
 
+## Build 128 (v1.2.1 — May 2026)
+
+**The set editor stops covering the row you're editing, deleting a set is one tap with an undo, and the coach stops fibbing about what's logged.**
+
+The History edit modal got another round. Tapping a set now slides up a panel from the bottom of the sheet while the list above it shrinks, so the row you're editing stays in view instead of being covered by a centered dialog. The row itself highlights so the panel's context is obvious, and the same panel handles editing when the session happened — opening one closes the other. The "· Set N" suffix in the panel title is gone, the row densities are tighter, and the first field actually focuses after the slide settles instead of racing it.
+
+Deleting a set no longer pops a confirmation modal — tap the delete, the set goes, and an "Undo" toast hangs around for six seconds in case you didn't mean it. The toast button is bigger than it looks (extra hit slop) and labeled properly for VoiceOver.
+
+On the coach side: if you ask "did it log?" or "log the walk?", the coach now checks the current session before answering instead of cheerfully claiming "Already logged, you're good" when it isn't. And if you fire off a self-contained report — "just walked 0.6 miles in 11 minutes" — that gets logged as a walk even when the active exercise is something else (lifts, mid-warmup, whatever). Previously those could fall through the cracks if the coach had just transitioned to a different movement.
+
+One more History fix: legacy exercises logged before the category-snapshot work shipped now classify against the library, so duration-only moves like "Sauna Stretch" stop sprouting a phantom miles field, and older walks/runs keep both their duration and distance.
+
+---
+
 ## Build 127 (v1.2.1 — May 2026)
 
 **Saving a set edit now scrolls the row back into view.**
