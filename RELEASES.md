@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 132 (v1.2.1 — May 21, 2026)
+
+**Correcting a logged set in chat now updates the set card right there in the scrollback.**
+
+If you told the coach "that was bodyweight, not -30 lbs" and it corrected the set, the History tab picked up the new numbers but the card in the chat thread kept showing the old ones — reps, weight, equipment, all stale. The card now re-renders the moment the correction lands, so the conversation and your history agree.
+
+---
+
 ## Build 131 (v1.2.1 — May 21, 2026)
 
 **Cardio rows from your plan now always pick up the CARDIO eyebrow, even on the first set of a fresh session.**
