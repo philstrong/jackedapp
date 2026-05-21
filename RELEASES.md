@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 133 (v1.2.1 — May 21, 2026)
+
+**Telling the coach a set belonged to a different exercise now cleans up the wrong card and logs the right one in the same breath.**
+
+If you said "that last Bicep Curl was actually a Seated Row," the coach used to log the Seated Row but leave the bogus Bicep Curl card sitting in chat and in History. Now it deletes the misfiled set and logs the correction in one turn, and the chat thread drops the old card in place so the scrollback stays honest. Your session ends up with what you actually did, not what the coach misheard.
+
+---
+
 ## Build 132 (v1.2.1 — May 21, 2026)
 
 **Correcting a logged set in chat now updates the set card right there in the scrollback.**
