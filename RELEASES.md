@@ -1,5 +1,17 @@
 # Jacked — Release Notes
 
+## Build 129 (v1.2.1 — May 2026)
+
+**Cardio sets in your plan log under the right name, distance shows its unit, and the chat input is back to behaving.**
+
+If your plan has "Walking" in it, the coach now logs your walk as "Walking" instead of "Walk" — so the cardio eyebrow shows up on the set card and the entry lines up with the plan. Off-plan stuff still logs freely under whatever name fits ("Burpees" doesn't get forced into the nearest plan match).
+
+Cardio set cards now render distance with its unit — "0.5 mi" instead of a bare "0.5" — so the row stops looking like a half-set of something countable.
+
+In the chat bar, the send/play button is nudged up a few pixels so it sits at the text baseline instead of low, and the character counter is hidden until you cross 4000 characters. Below that it was just noise; from 4000 on you actually want the budget signal, with the orange warning still kicking in at 4750. When it does appear, it lives inside the bar above the button instead of floating in the gap above the input.
+
+---
+
 ## Build 128 (v1.2.1 — May 2026)
 
 **The set editor stops covering the row you're editing, deleting a set is one tap with an undo, and the coach stops fibbing about what's logged.**
