@@ -1,5 +1,15 @@
 # Jacked — Release Notes
 
+## Build 135 (v1.2.1 — May 22, 2026)
+
+**Correcting a set in chat now updates that session in your History tab, not just the chat card.**
+
+Build 132 fixed the chat scrollback so a corrected set re-renders in place. The History tab had the same blind spot one level up: a session card only redrew when the number of sets or exercises changed, so a correction that swapped an exercise or changed reps, weight, notes, or equipment left the counts identical and the card kept showing the pre-correction values. The card now redraws whenever any value on it actually changes, so your chat and your history finally agree everywhere.
+
+Also tightened up account handling: signing out now fully clears the previous account's in-memory workout plan and exercise data, and a program sync that fires mid-switch is blocked from writing to the wrong account. This only ever surfaced when switching accounts on one device, but it's the kind of bug that quietly corrupts data, so it's now closed off on both sides.
+
+---
+
 ## Build 134 (v1.2.1 — May 21, 2026)
 
 **Finish a set of bodyweight pull-ups or push-ups and the coach now gives you a rep target for next time instead of going quiet.**
