@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 138 (v1.2.2 — May 23, 2026)
+
+**When the coach calls it a wrap, a red Stop button slides in next to Send so you can end the session with one tap.**
+
+At the end of a planned workout the coach now signals that you're done — and the chat input grows a Stop button on the left, right where your thumb already is. Tap it and the session finishes through the same path as the Finish button up top, so you still get the post-workout recap. The button sticks around if you background the app mid-wrap, and disappears the moment the session ends.
+
+---
+
 ## Build 137 (v1.2.2 — May 23, 2026)
 
 **Maintenance build.**
