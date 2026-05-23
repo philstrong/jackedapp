@@ -1,5 +1,17 @@
 # Jacked — Release Notes
 
+## Build 136 (v1.2.1 — May 23, 2026)
+
+**After a PR, a clean weight push, or a workout-count milestone, the coach now asks if you're loving it — and if you say yes, you're handed straight to Apple's write-a-review screen.**
+
+When a session ends on a real high, Biff or Kelly drops a one-liner in chat and a small "Love it / Not really / Dismiss" sheet slides up. Tap Love it and you go to Apple's combined stars-and-text review screen — the App Store's own UI, not a mimic. Tap Not really and you get an in-app feedback form, so the rough edges land in front of us instead of as a one-star public review. Each path has its own cool-off — 90 days after a positive, 60 after feedback, a week after a dismiss — and your first couple of workouts plus any deload session are kept quiet, so the ask only ever shows up on a genuinely good moment.
+
+The first cut accidentally treated any finished cardio block as a "weight push" — a bodyweight or duration-based history has no weight axis to progress on, so the suggestion came back as `suggestedWeight: 0` and the gate triggered on essentially every walk. That's fixed: reps-axis exercises are skipped entirely, since rep progress is already captured by the PR trigger.
+
+Two reliability fixes ride along. The History tab now loads its sections — active session, completed sessions, and current plan — independently, so a hiccup in one no longer blocks the others from showing. And if the coach ever gets stuck in a tool-calling loop, it bails after a few rounds with a "Coach got stuck — try again" message instead of churning silently against the daily token cap.
+
+---
+
 ## Build 135 (v1.2.1 — May 22, 2026)
 
 **Correcting a set in chat now updates that session in your History tab, not just the chat card.**
