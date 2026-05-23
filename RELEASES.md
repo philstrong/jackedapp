@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 137 (v1.2.2 — May 23, 2026)
+
+**Maintenance build.**
+
+No user-visible changes this round — a version bump to 1.2.2 on top of build 136 with the same feature set.
+
+---
+
 ## Build 136 (v1.2.1 — May 23, 2026)
 
 **After a PR, a clean weight push, or a workout-count milestone, the coach now asks if you're loving it — and if you say yes, you're handed straight to Apple's write-a-review screen.**
