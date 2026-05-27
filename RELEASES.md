@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 141 (v1.2.3 — May 27, 2026)
+
+**Sign in with Apple, and a cleaner sign-up flow to land on.**
+
+You can now tap "Continue with Apple" on the sign-in and sign-up screens and get straight in — no password, no email confirmation step, just Face ID and you're through. The whole auth flow got a redesign at the same time: inputs are easier to tell apart from disabled buttons, the disabled state on the main CTA actually looks disabled, the coach pill no longer overlaps the headline on the Sign In and Reset Password screens, and password rules are checked before the button lights up so you don't bounce off a Cognito error.
+
+---
+
 ## Build 140 (v1.2.3 — May 26, 2026)
 
 **No more ghost typing dots floating in old chat threads.**
