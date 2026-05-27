@@ -1,18 +1,18 @@
 # Jacked — Release Notes
 
-<<<<<<< HEAD
+## Build 140 (v1.2.3 — May 26, 2026)
+
+**No more ghost typing dots floating in old chat threads.**
+
+When the coach logged a set without saying anything out loud — silent tool-only turns — an empty bubble was getting saved to your chat history. The next time you reopened the app, it rendered as orphan typing dots that never resolved, scattered through the scrollback. The coach now skips saving those silent turns, and any ghosts already on disk are filtered out on load, so old threads clean themselves up the first time you open them.
+
+---
+
 ## Build 139 (v1.2.2 — May 25, 2026)
 
 **Biff is now Jack.**
 
 The male coach goes by Jack from now on — same voice, same style, just a name that fits him better. The change runs everywhere the old name appeared: chat, coach picker, profile, welcome flow, and any prompts the coach uses to refer to himself. If you'd picked Biff before, you'll see Jack on next launch with no action needed. Kelly is unchanged.
-=======
-## Build 139 (v1.2.2 — May 26, 2026)
-
-**Phantom typing dots in old chats are gone.**
-
-When the coach logged a set silently — no commentary, just the tool call — that turn was being saved as an empty assistant message. Reopening the app later, the empty bubble rendered as a stuck row of typing dots in the middle of your scrollback, as if the coach were forever about to say something. New silent turns no longer get persisted, and any old ghost rows already on disk are filtered out the next time the chat loads, so the scrollback stops lying about pending replies.
->>>>>>> e4d6a59 (Update iOS build files to build 139)
 
 ---
 
