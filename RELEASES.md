@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 143 (v1.2.3 — May 28, 2026)
+
+**Sign in with Apple on a device that's seen another account now drops you into a clean profile, not the previous user's name.**
+
+Yesterday's Apple sign-in path cleared Cognito's token cache but left the app-level profile cache untouched — so a fresh Apple account would briefly inherit the prior email/password account's display name until the next profile sync caught up. The Apple sign-in flow now wipes both caches before saving the new tokens, matching what sign-out already did, so a new Apple account starts blank like it should. Also added a small note under the Rest Timer Bell toggle in Settings so it's clear the bell follows your iPhone's ringer switch — if your phone is on silent, the bell stays silent too.
+
+---
+
 ## Build 141 (v1.2.3 — May 27, 2026)
 
 **Sign in with Apple, and a cleaner sign-up flow to land on.**
