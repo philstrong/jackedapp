@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 145 (v1.2.3 — May 29, 2026)
+
+**Backing out of the Apple sign-in sheet no longer throws a cryptic red error.**
+
+If you tapped "Continue with Apple" and then changed your mind, dismissing the Apple ID sheet was surfacing a confusing error like "The operation couldn't be completed. (org.openid.appauth.general error -3.)". Cancelling is now treated as what it is — a quiet no-op — so the screen just returns to the sign-in form with nothing to dismiss. Genuine failures like a dropped network connection still show a real error, so nothing important gets swallowed.
+
+---
+
 ## Build 144 (v1.2.3 — May 29, 2026)
 
 **CrossFit moves, sleds, and weighted carries now live in the exercise library — and track properly.**
