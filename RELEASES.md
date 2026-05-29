@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 144 (v1.2.3 — May 29, 2026)
+
+**CrossFit moves, sleds, and weighted carries now live in the exercise library — and track properly.**
+
+The library picks up a CrossFit tag spanning 38 exercises — olympic lifts, gymnastics, and conditioning staples, plus eleven new ones like wall balls, double unders, rope climbs, ring muscle-ups, the assault bike, and the ski erg. Carries and sleds (Farmers Carry, sled push/pull, yoke carry) get their own logging shape that tracks weight and duration side by side, so loaded carries finally record the way you actually do them instead of being forced into a reps box. Settings also got a little tidier: the duplicate Workout Plans row is gone (it's already a bottom tab), and long preference hints like the Rest Timer Bell note now wrap cleanly instead of shoving the toggle off the edge of the screen. Last, signing in with a fresh account no longer inherits the previous account's pre-checked "Get set up" steps — the checklist now resets on sign-in and sign-out so it reflects your account, not whoever used the phone before.
+
+---
+
 ## Build 143 (v1.2.3 — May 28, 2026)
 
 **Sign in with Apple on a device that's seen another account now drops you into a clean profile, not the previous user's name.**
