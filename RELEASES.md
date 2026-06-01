@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 148 (v1.3.0 — June 1, 2026)
+
+**Drag to reorder your plans and exercises — and mark one-off workouts so they don't bump your rotation.**
+
+The Plans tab is now a single list you can rearrange by dragging, with Rotation and Adhoc sections so it's clear which plans are part of your regular cycle. Open a plan and you can drag its exercises into whatever order you want, and flip an "Include in rotation" toggle to pull a plan out of the Last/Next cycle — handy for a one-off session that shouldn't push your push/pull/lower order forward. The coach now also remembers a short note from your last session and reads it back at the start of the next one, so it carries over tone and any cautions you mentioned without losing track of where your progression stands. That memory is rolling out to early-access accounts first.
+
+---
+
 ## Build 145 (v1.2.3 — May 29, 2026)
 
 **Backing out of the Apple sign-in sheet no longer throws a cryptic red error.**
