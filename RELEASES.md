@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 149 (v1.3.0 — June 1, 2026)
+
+**Coach Memory you can actually see — plus a couple of moments where the coach shows its work.**
+
+The coach's session memory now has a home: tap the new brain icon in History (alongside List and Calendar) to see the short note your coach kept after each workout, with the option to clear or forget any of them. You'll also catch it in the moment — when the coach saves a note at the end of a session a small "saved to memory" card appears in chat, and when you start a workout it's seen before, it opens with a "picking up where we left off" card quoting what it remembered. There's a Coach Memory shortcut in Profile and a one-line "Coach remembers…" peek on each plan, too. All of this is rolling out to early-access accounts first. Separately, tapping anywhere outside the fields on the sign-in screen now dismisses the keyboard.
+
+---
+
 ## Build 148 (v1.3.0 — June 1, 2026)
 
 **Drag to reorder your plans and exercises — and mark one-off workouts so they don't bump your rotation.**
