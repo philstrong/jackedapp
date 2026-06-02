@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 152 (v1.3.0 — June 2, 2026)
+
+**The "Get set up" checklist stays done once you've done it, and the end-of-session Stop button can't be fired twice.**
+
+Returning users were seeing "Get set up" pop back up with "Pick your coach" unchecked even though they'd already chosen a coach — the checklist was tied to device-wide flags that got wiped on every sign-in. It now reads from your real account state instead, so once you've picked a coach and customized a plan those items stay checked across logins. We also guarded the Stop button at the end of a workout: a quick double-tap used to fire the finish flow twice, so the first tap now dims and disables the button until the next session.
+
+---
+
 ## Build 151 (v1.3.0 — June 2, 2026)
 
 **A bigger, easier-to-read paywall and a close button that lines up right on every iPhone.**
