@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 150 (v1.3.0 — June 1, 2026)
+
+**Tap Start without a subscription and you'll land on the paywall first — plus a smoother sign-in screen.**
+
+If you're not subscribed yet, tapping Start now takes you straight to the paywall instead of opening the workout picker, and once you subscribe it carries you right on to choose your workout; back out without subscribing and you're returned to the Train home. Paid users see no change. On the sign-in screen, the fields now scroll up out of the keyboard's way when you tap into them, so the box you're typing in stays visible — and tapping away still dismisses the keyboard. The close button on the onboarding screen also sits cleanly below the notch now instead of nudging the content down.
+
+---
+
 ## Build 149 (v1.3.0 — June 1, 2026)
 
 **Coach Memory you can actually see — plus a couple of moments where the coach shows its work.**
