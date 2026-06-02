@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 151 (v1.3.0 — June 2, 2026)
+
+**A bigger, easier-to-read paywall and a close button that lines up right on every iPhone.**
+
+The paywall had been shrunk down to fit the iPhone SE, which left it reading too small on the taller phones most people carry. It's now scaled up on those devices — a larger headline and subhead, an eyebrow that matches the rest of the app, and content that fills the screen instead of clumping at the bottom; the iPhone SE keeps its compact layout. The close ✕ on the onboarding screen also sits exactly where it should now, lined up with the header across the whole iPhone range from SE to the Dynamic Island models, instead of drifting into the status bar on some and below the title on others.
+
+---
+
 ## Build 150 (v1.3.0 — June 1, 2026)
 
 **Tap Start without a subscription and you'll land on the paywall first — plus a smoother sign-in screen.**
