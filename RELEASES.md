@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 154 (v1.3.1 — June 4, 2026)
+
+**Editing past workouts is now open to everyone — fix a date, tweak a set, or log a session you forgot.**
+
+The tools for cleaning up your history used to be limited to early-access accounts; they're now available to all. From the History list you can change a workout's date and time, edit or add sets, add an exercise, delete a session, and use the "Log a past workout" button to backfill anything you did away from the app. Coach Memory also got a visual pass for the early-access folks — the saved-to-memory and picking-up-where-we-left-off cards, the Coach Memory list, and the plan peeks all got a cleaner, more polished treatment, and progression notes now carry a concrete target like "135 → 140 next session." Behind the scenes we switched to sturdier crash reporting and folded bug reports and feature requests into a single feedback form in Settings, so getting word to us is simpler.
+
+---
+
 ## Build 152 (v1.3.0 — June 2, 2026)
 
 **The "Get set up" checklist stays done once you've done it, and the end-of-session Stop button can't be fired twice.**
