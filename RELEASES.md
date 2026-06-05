@@ -1,5 +1,21 @@
 # Jacked — Release Notes
 
+## Build 156 (v1.3.2 — June 5, 2026)
+
+**A maintenance build with under-the-hood housekeeping.**
+
+No user-facing changes in this one — it's a version bump (1.3.1 → 1.3.2) with some behind-the-scenes tidying. Everything you'd notice from the last few builds is already in place. On to the next.
+
+---
+
+## Build 155 (v1.3.1 — June 5, 2026)
+
+**A cleaner sign-in screen and a smoother way back in when your session ends.**
+
+The sign-in and sign-up screens got a tidier layout: a single card with one clear primary button, an "or" divider, and Sign in with Apple in its natural spot — at the bottom on sign-in, up top on sign-up. Signing out or hitting an expired session now drops you on the Sign In screen instead of Sign Up, so getting back into your account is one less tap. We also fixed outbound links — the legal, store, and support links now fail gracefully with a clear message if your device blocks them (Screen Time or a work profile, say), rather than silently doing nothing.
+
+---
+
 ## Build 154 (v1.3.1 — June 4, 2026)
 
 **Editing past workouts is now open to everyone — fix a date, tweak a set, or log a session you forgot.**
