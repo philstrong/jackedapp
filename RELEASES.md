@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 157 (v1.3.3 — June 6, 2026)
+
+**No more little jump when a screen first appears.**
+
+The bottom tabs (Train, History, Plans, Profile) and the sign-in and onboarding screens used to drop their content down by a hair the instant they loaded, as the app figured out where the notch and home bar were. That settling step is gone now — each screen lands in its final position on the first frame, so switching tabs and your first impression of sign-in feel cleaner and steadier.
+
+---
+
 ## Build 156 (v1.3.2 — June 5, 2026)
 
 **A maintenance build with under-the-hood housekeeping.**
