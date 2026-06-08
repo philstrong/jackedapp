@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 159 (v1.3.3 — June 8, 2026)
+
+**Switching accounts no longer carries the old account's data over, and the coach won't log a set you didn't do.**
+
+If you signed out and back in as a different account, the app could still show the previous account's data — that's fixed now, so signing out fully clears the way for the next person who signs in. We also stopped the coach from logging a phantom set: saying something like "one more set of rows" or "back to squats" to steer the coach used to occasionally get logged as a completed set with made-up reps and weight. Now those steering phrases are treated as what they are — a request to keep going, not a set to record.
+
+---
+
 ## Build 158 (v1.3.3 — June 8, 2026)
 
 **Tap-to-log chips and a smarter set card make logging a workout set the fast way to talk to your coach.**
