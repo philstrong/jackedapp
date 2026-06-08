@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 158 (v1.3.3 — June 8, 2026)
+
+**Tap-to-log chips and a smarter set card make logging a workout set the fast way to talk to your coach.**
+
+As you move through a session, the coach now offers tappable chips just above the chat box that suggest your next set — the reps to aim for, and for time-based moves a duration instead — so you can log a set with one tap rather than typing it out. Once you log it, a smart card shows how that set stacked up: how many more reps than last time, a badge when you've hit a personal record, and a nudge when you've pushed past your usual load. Cardio and bodyweight exercises are handled properly too — no more "x 0" on a reps-only move, and time-based exercises get their own card. The coach also got sharper: it asks for your weight when a lift needs one and it has nothing to go on, finds your past sets across your whole plan instead of just a recent window, and reports the actual reps you did (say 12, 10, 8) rather than flattening them to "3x10."
+
+---
+
 ## Build 157 (v1.3.3 — June 6, 2026)
 
 **No more little jump when a screen first appears.**
