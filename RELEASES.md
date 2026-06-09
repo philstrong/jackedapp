@@ -1,18 +1,26 @@
 # Jacked — Release Notes
 
+## Build 161 (v1.3.3 — June 9, 2026)
+
+**The fast tap-to-log set experience is now on for everyone.**
+
+The tappable next-set chips above the chat box, the smart set card that shows how each set stacked up against last time, personal-record badges, and the cardio- and time-aware handling were all limited to early-access accounts — they're now open to everyone. Logging a set during a session is a one-tap affair for all users, and the coach reads from your full plan history when it sizes up your progress.
+
+---
+
 ## Build 160 (v1.3.3 — June 9, 2026)
 
-**Closing the last gaps on account switching, so the right account always loads cleanly.**
+**A maintenance build — behind-the-scenes reliability work.**
 
-We followed up on last build's account-switching fix to cover the cases that were still slipping through. Now every way you leave an account — signing out, or just having your session expire — fully clears the old account before the next sign-in, so nothing carries over. If you've ever used both Sign in with Apple and an email-and-password login under the same email, those two no longer step on each other. And flipping between environments won't accidentally restore the wrong account anymore.
+No user-facing changes in this one. Some under-the-hood tidying to how the app handles sign-in and switching accounts (relevant mainly to internal testing). Everything you'd notice is already in place from earlier builds. On to the next.
 
 ---
 
 ## Build 159 (v1.3.3 — June 8, 2026)
 
-**Switching accounts no longer carries the old account's data over, and the coach won't log a set you didn't do.**
+**The coach won't log a set you didn't do.**
 
-If you signed out and back in as a different account, the app could still show the previous account's data — that's fixed now, so signing out fully clears the way for the next person who signs in. We also stopped the coach from logging a phantom set: saying something like "one more set of rows" or "back to squats" to steer the coach used to occasionally get logged as a completed set with made-up reps and weight. Now those steering phrases are treated as what they are — a request to keep going, not a set to record.
+Saying something like "one more set of rows" or "back to squats" to steer the coach used to occasionally get logged as a completed set with made-up reps and weight. Now those steering phrases are treated as what they are — a request to keep going, not a set to record.
 
 ---
 
