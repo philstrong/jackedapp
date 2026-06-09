@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 160 (v1.3.3 — June 9, 2026)
+
+**Closing the last gaps on account switching, so the right account always loads cleanly.**
+
+We followed up on last build's account-switching fix to cover the cases that were still slipping through. Now every way you leave an account — signing out, or just having your session expire — fully clears the old account before the next sign-in, so nothing carries over. If you've ever used both Sign in with Apple and an email-and-password login under the same email, those two no longer step on each other. And flipping between environments won't accidentally restore the wrong account anymore.
+
+---
+
 ## Build 159 (v1.3.3 — June 8, 2026)
 
 **Switching accounts no longer carries the old account's data over, and the coach won't log a set you didn't do.**
