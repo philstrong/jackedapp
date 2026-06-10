@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 162 (v1.3.3 — June 10, 2026)
+
+**Preview a plan before you start it, and get tap-to-log chips on cardio too.**
+
+The first time you're about to start a workout plan, it now opens up so you can look over the moves before diving in — and a magnifier on each plan in the Choose Workout list lets you peek at any plan on demand. Cardio and timed exercises now get the same tappable next-set chip a lift does, suggesting a duration from your last session even before the coach chimes in. We also fixed a couple of rough edges: tapping between sets in the Edit Session screen now shows the right reps and weight for the set you tapped (instead of leaving the previous set's numbers in the box), the Start button no longer goes briefly unresponsive while your data is syncing, and the coach now reads its full memory of your training instead of a version cut short mid-sentence.
+
+---
+
 ## Build 161 (v1.3.3 — June 9, 2026)
 
 **The fast tap-to-log set experience is now on for everyone.**
