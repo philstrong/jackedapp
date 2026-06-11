@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 165 (v1.3.4 — June 11, 2026)
+
+**A safeguard so the paywall never advertises a free trial it can't deliver.**
+
+The paywall now checks the live App Store offer before showing any "free trial" wording. In the rare case a trial offer isn't available, it falls back to plain "Subscribe · cancel anytime" copy instead of promising free days you wouldn't actually get. With today's standard 14-day trial in place nothing changes — you'll see the same trial copy as always.
+
+---
+
 ## Build 164 (v1.3.4 — June 11, 2026)
 
 **The free trial is now two weeks instead of one.**
