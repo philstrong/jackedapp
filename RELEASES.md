@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 164 (v1.3.4 — June 11, 2026)
+
+**The free trial is now two weeks instead of one.**
+
+New accounts now get a full 14-day free trial of Premium instead of 7, so there's more room to find your rhythm before deciding. The paywall reads the trial length straight from the live App Store offer, so the number you see is always exactly what you'll get — even right after we change it.
+
+---
+
 ## Build 163 (v1.3.4 — June 11, 2026)
 
 **Logged a set wrong? Tap its card and fix it on the spot.**
