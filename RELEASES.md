@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 163 (v1.3.4 — June 11, 2026)
+
+**Logged a set wrong? Tap its card and fix it on the spot.**
+
+During an active session, every set card in the chat is now tappable — a small pencil in the corner marks the ones you can edit. Tapping opens the same big-numbers editor you know from History, so you can correct the reps or weight without breaking stride; the card updates with an "edited" stamp and the next-set chips recompute from the corrected numbers. The Choose Workout screen also got a visual pass: each plan tile now shows an expand glyph (instead of a magnifier) to open the full plan, the layout is cleaner with the body-part focus up top and the RECOMMENDED/LAST badge pinned to the bottom, and the selected plan gets a clear color tint.
+
+---
+
 ## Build 162 (v1.3.3 — June 10, 2026)
 
 **Preview a plan before you start it, and get tap-to-log chips on cardio too.**
