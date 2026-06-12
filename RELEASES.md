@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 166 (v1.3.4 — June 12, 2026)
+
+**Closing the paywall? Tell us why — one tap, totally optional.**
+
+If you close the paywall without subscribing, a small sheet now slides up asking why — is it the price, do you want to train a bit first, or are you just looking around? One tap answers it, "Something else" opens a short text box if you'd rather say it in your own words, and "Not now" skips the whole thing. Jack says thanks and the sheet tucks itself away. It only appears once you've actually used the app a bit, and it won't pester you again right after you've answered.
+
+---
+
 ## Build 165 (v1.3.4 — June 11, 2026)
 
 **A safeguard so the paywall never advertises a free trial it can't deliver.**
