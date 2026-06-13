@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 167 (v1.3.4 — June 13, 2026)
+
+**See how much workout you've got left — early access gets a live time-and-sets estimate.**
+
+If you're in early access, a planned session now shows a small strip at the top with roughly how many minutes and how many sets you've got to go, plus a progress bar that fills as you work through it. The estimate is smart about what's ahead — timed and cardio moves count their full prescribed time while lifts get a quick per-set estimate, with rest factored in — and it only shows up once you're mid-session on an actual plan. This build also brings a batch of reliability fixes for everyone: the coach's replies no longer garble when the connection hiccups, it reconnects cleanly instead of dropping a reply mid-answer, and it won't hang on a stalled stream. We also fixed the next-set chips occasionally disappearing, stopped a quick double-tap on Send or Finish from logging twice, kept set cards from bleeding across sessions, and cleaned up the Choose Workout grid so its second row no longer clips.
+
+---
+
 ## Build 166 (v1.3.4 — June 12, 2026)
 
 **Closing the paywall? Tell us why — one tap, totally optional.**
