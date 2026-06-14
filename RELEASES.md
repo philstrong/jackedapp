@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 169 (v1.3.4 — June 14, 2026)
+
+**Two logging fixes so the app keeps up when you switch exercises mid-session.**
+
+When you tell the coach you're done with a move and ready for something else — like "bench is done, let's finish with a walk" — the tap-to-log rep chips from your last lift now clear out instead of lingering with stale numbers from an exercise you've already wrapped. We also squashed a glitch where repeating the same set a few times in a row could occasionally file your latest set under the next exercise on your plan instead of the one you're actually doing — your set now stays put on the current move.
+
+---
+
 ## Build 168 (v1.3.4 — June 13, 2026)
 
 **A clearer time-left strip for early access, plus a fix so answering "what weight?" never logs a phantom set.**
