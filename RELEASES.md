@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 168 (v1.3.4 — June 13, 2026)
+
+**A clearer time-left strip for early access, plus a fix so answering "what weight?" never logs a phantom set.**
+
+If you're in early access, the live time-and-sets strip at the top of a planned session is easier to read now — it's got a clock icon, the minutes stand out in the accent color, and a thicker progress bar. It also behaves better at the finish line: instead of quietly disappearing when you wrap your last set, it now says "All sets done," and it tucks away cleanly once the coach closes out the session. For everyone, we squashed a logging glitch where replying to the coach's "what weight?" with just a number could sneak in an extra one-rep set — that number is now correctly read as the weight for your next set, not a set you already did.
+
+---
+
 ## Build 167 (v1.3.4 — June 13, 2026)
 
 **See how much workout you've got left — early access gets a live time-and-sets estimate.**
