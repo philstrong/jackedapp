@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 170 (v1.3.4 — June 15, 2026)
+
+**Two fixes that keep your session in sync when you switch exercises mid-workout.**
+
+When the coach moves you on to a new exercise, the title at the top of your session now switches to that move right away instead of lagging behind on the one you just finished — so the header always matches the next-set chips below it. We also closed the last gaps in a recent fix: answering the coach's "what weight?" with just a number (like "40" or "50") no longer sneaks in a stray set, no matter how that number might've been read — it's always taken as the weight for your next set.
+
+---
+
 ## Build 169 (v1.3.4 — June 14, 2026)
 
 **Two logging fixes so the app keeps up when you switch exercises mid-session.**
