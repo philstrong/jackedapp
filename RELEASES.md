@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 171 (v1.3.4 — June 15, 2026)
+
+**The "why are you leaving?" sheet now waits for an actual answer.**
+
+When you close the paywall and that quick "why?" sheet slides up, tapping the dimmed area behind it no longer dismisses it — a stray tap there used to count as a skip, which never really told us anything. Now the only ways out are picking a reason or tapping "Not now," so your answer reflects what you actually meant. If you're typing something in your own words, a new "Back" link lets you step back to the reason buttons.
+
+---
+
 ## Build 170 (v1.3.4 — June 15, 2026)
 
 **Two fixes that keep your session in sync when you switch exercises mid-workout.**
