@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 172 (v1.3.4 — June 15, 2026)
+
+**The coach now opens your session with your history already in hand — no more second-guessing the starting weight.**
+
+When you kick off a planned workout, the coach used to go look up your past sessions on the spot, and once in a while it would think out loud about your first weight — landing on a number, then walking it back to another ("let's go 55… actually, 90"). Now it has your last session and the recommended next weight ready before it says a word, so its opening message lands on the right starting weight in one clean take. Nothing else changes about how it coaches you — it just gets there without the visible back-and-forth.
+
+---
+
 ## Build 171 (v1.3.4 — June 15, 2026)
 
 **The "why are you leaving?" sheet now waits for an actual answer.**
