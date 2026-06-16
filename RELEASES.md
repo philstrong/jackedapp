@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 173 (v1.3.4 — June 16, 2026)
+
+**Your coach gets to the point faster at the start of a session — and your first set lands on the right exercise.**
+
+When you kick off a planned workout, the coach's opening message is leaner now: a quick hello, a one-line rundown of what's on deck today, and the weight to start with — no more walking you through how to log sets when you already know the ropes. Brand-new lifters still get the full welcome. We also fixed a logging slip where the very first set of a session could occasionally get filed under the wrong exercise from your plan — your opening set now sticks to the move you're actually doing.
+
+---
+
 ## Build 172 (v1.3.4 — June 15, 2026)
 
 **The coach now opens your session with your history already in hand — no more second-guessing the starting weight.**
