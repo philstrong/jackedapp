@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 175 (v1.3.5 — June 16, 2026)
+
+**The time-left strip now counts down your rest, plus a logging fix when you jump to a new exercise.**
+
+If you're in early access, the live time-left strip at the top of a planned session now folds in the rest you're currently taking — so while you're resting before your last set, it counts down the actual minutes you have left instead of reading "≈ 1 min" the whole time. For everyone, we fixed a logging slip where moving on to a fresh exercise you hadn't logged yet could file your set under the move you just finished — your set now lands on the exercise you're actually doing.
+
+---
+
 ## Build 173 (v1.3.4 — June 16, 2026)
 
 **Your coach gets to the point faster at the start of a session — and your first set lands on the right exercise.**
