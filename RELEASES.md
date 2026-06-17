@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 176 (v1.4.0 — June 17, 2026)
+
+**The live time-left strip is now on for everyone — and it finally counts cardio right, plus early access gets a tap-to-jump session map.**
+
+The strip at the top of a planned session that shows roughly how many minutes and sets you've got left was early-access only until now — it's open to everyone in this build. We also fixed how it handles cardio and timed work: a planned 10-minute walk used to barely register toward the estimate, so cardio-heavy sessions read as much shorter than they really were — now timed moves count their full length and the time-left holds up. If you're in early access, there's also a new session map: tap the Map button in the session controls to see your whole workout laid out as a timeline — what's done, what you're on, and what's still ahead — and tap any upcoming move to jump straight to it.
+
+---
+
 ## Build 175 (v1.3.5 — June 16, 2026)
 
 **The time-left strip now counts down your rest, plus a logging fix when you jump to a new exercise.**
