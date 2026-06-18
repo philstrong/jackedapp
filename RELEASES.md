@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 177 (v1.4.0 — June 18, 2026)
+
+**The early-access session map is easier to reach, sticks around as a slim card, and now carries your live time-left in one spot.**
+
+If you're in early access, the session map we added last build — your whole workout laid out move-by-move — is easier to open now: instead of hunting for a small Map icon, just tap the time-left strip at the top of a planned session to pull it up. The map also stays put as a slim card through your session instead of disappearing when you close it — tap to expand the full timeline, tap again to shrink it back to a slim bar. And it now shows your time-left right on the card — minutes, sets to go, and a progress bar all in one place instead of two slightly different readouts side by side — and the minutes count down live while you rest.
+
+---
+
 ## Build 176 (v1.4.0 — June 17, 2026)
 
 **The live time-left strip is now on for everyone — and it finally counts cardio right, plus early access gets a tap-to-jump session map.**
