@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 178 (v1.4.0 — June 19, 2026)
+
+**The early-access session map now spells out each move — the gear and weight, the sets and reps you're after, and what you lifted last time.**
+
+If you're in early access, the session map — your whole workout laid out move-by-move — now packs a lot more into each row. Every move shows the equipment and weight you'll use, with cardio and timed moves showing their length instead of a weight, plus the sets and reps you're aiming for, like "2 × 10". Moves you've done before also carry a quick "last time" line so you can see what you lifted on them, and the move you're currently on fills in a dot for each set as you knock them out.
+
+---
+
 ## Build 177 (v1.4.0 — June 18, 2026)
 
 **The early-access session map is easier to reach, sticks around as a slim card, and now carries your live time-left in one spot.**
