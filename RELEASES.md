@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 179 (v1.4.0 — June 20, 2026)
+
+**Weight chips that build around what you actually lifted, coach messages that survive an app reload, and — for early access — a new Progress view plus a refreshed session map.**
+
+When you set the weight on a lift, the quick-pick chips now ladder around the weight you're actually using — edit a 200 lb set and you'll see 180 / 190 / 200 / 210 / 220 instead of the same fixed list every time — and the bodyweight option only shows up on moves where it fits, like weighted pull-ups and dips, not your barbell and machine lifts. We also fixed a slip where reloading the app just as your coach was mid-sentence — most likely right at the start of a session — could lose its message and leave a bare "Starting…"; the reply now saves as it streams in, so a reload brings it back. History also drops the old month-grid calendar and opens straight to your sessions list. If you're in early access, there's a new Sessions / Progress toggle in History — the Progress view charts how each exercise is trending, with badges that echo where your coach is steering you and chips to filter by plan — and the session map got a visual pass with equipment icons, the muscle worked under each move, and a slimmer card that shows your current lift front and center with a single rest countdown.
+
+---
+
 ## Build 178 (v1.4.0 — June 19, 2026)
 
 **The early-access session map now spells out each move — the gear and weight, the sets and reps you're after, and what you lifted last time.**
