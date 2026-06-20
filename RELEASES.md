@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 180 (v1.4.0 — June 20, 2026)
+
+**Tell your coach you're switching exercises and it actually switches — no more "finish this one first."**
+
+When you jump to a different move mid-session — whether you tap it in your session map or just tell the coach "moving to overhead press" — your coach now follows you over to that exercise right away and sets you up with a weight and reps for it. Before, if you hadn't logged a set on your current move yet, the coach could dig in and insist you finish it first, sometimes a few times in a row. Now an explicit switch is taken as exactly that — you're moving on — so the coach comes along instead of holding you back.
+
+---
+
 ## Build 179 (v1.4.0 — June 20, 2026)
 
 **Weight chips that build around what you actually lifted, coach messages that survive an app reload, and — for early access — a new Progress view plus a refreshed session map.**
