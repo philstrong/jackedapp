@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 181 (v1.4.0 — June 20, 2026)
+
+**For early access: a new Memory tab in History that shows what your coach has been remembering about each of your workouts — and lets you clear any of it.**
+
+If you're in early access, History now has a third tab alongside Sessions and Progress: Memory. It lays out the notes your coach keeps on each of your workouts — what it's picked up about your Push, Pull, and Lower days — each tagged with how long ago it noticed, so you can see what's quietly shaping its advice. If a note is off or out of date, you can tell the coach to forget it and start that workout fresh.
+
+---
+
 ## Build 180 (v1.4.0 — June 20, 2026)
 
 **Tell your coach you're switching exercises and it actually switches — no more "finish this one first."**
