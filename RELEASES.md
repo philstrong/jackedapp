@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 182 (v1.4.0 — June 21, 2026)
+
+**A maintenance build — behind-the-scenes reliability work.**
+
+No user-facing changes in this one. Some under-the-hood hardening to how the app handles sign-in and switching accounts (relevant mainly to internal testing) — so a session stays put and your name and data stay tied to the right account through a switch. Everything you'd notice is already in place from earlier builds. On to the next.
+
+---
+
 ## Build 181 (v1.4.0 — June 20, 2026)
 
 **For early access: a new Memory tab in History that shows what your coach has been remembering about each of your workouts — and lets you clear any of it.**
