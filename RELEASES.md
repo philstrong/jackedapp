@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 183 (v1.4.0 — June 21, 2026)
+
+**Flag how a set felt — failure, warmup, or clean reps — right from the input bar, and your coach logs it with the rest.**
+
+There's a new tag button next to the message bar: tap it for a quick slide-up menu to mark your set as Failure, Warmup, or Clean. Once you arm a tag, the field and the quick-pick chips take on its color so you can see it's set, an ✕ clears it, and whether you tap a chip or type the set yourself, the tag rides along into your workout notes — then clears once you send. We also tidied up the timed-move chips so the quick time options only show on pure holds like planks, not on cardio like walking or running (which already logs distance on its own). And for early access, the Sessions / Progress / Memory toggle moved up right under the header, with the Workouts / Streak / Avg Time tiles now showing only on Sessions — giving the Progress and Memory views the full screen.
+
+---
+
 ## Build 182 (v1.4.0 — June 21, 2026)
 
 **A maintenance build — behind-the-scenes reliability work.**
