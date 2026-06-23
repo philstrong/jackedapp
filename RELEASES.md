@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 184 (v1.4.0 — June 23, 2026)
+
+**A rebuild of build 183 — same app, fresh upload, nothing new to see here.**
+
+No code changes in this one: it's build 183's exact code with a bumped build number, re-uploaded for testing. Everything you'd notice — the set-attribute tag menu, the tidied-up timed-move chips, and the History toggle moves for early access — already landed in build 183. Back to new features next.
+
+---
+
 ## Build 183 (v1.4.0 — June 21, 2026)
 
 **Flag how a set felt — failure, warmup, or clean reps — right from the input bar, and your coach logs it with the rest.**
