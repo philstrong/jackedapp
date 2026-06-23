@@ -2,9 +2,15 @@
 
 ## Build 184 (v1.4.0 — June 23, 2026)
 
+<<<<<<< HEAD
 **A rebuild of build 183 — same app, fresh upload, nothing new to see here.**
 
 No code changes in this one: it's build 183's exact code with a bumped build number, re-uploaded for testing. Everything you'd notice — the set-attribute tag menu, the tidied-up timed-move chips, and the History toggle moves for early access — already landed in build 183. Back to new features next.
+=======
+**For early access: the expanded session map now tucks itself away — tap anywhere outside it, or just leave it be, and it slides back to a slim bar.**
+
+If you're in early access, the session map — your whole workout laid out move-by-move — no longer waits for you to tap the chevron to close it. Tap anywhere outside the expanded view and it folds back down to its slim card, and if you leave it open without touching it for ten seconds it collapses on its own. Touch it again and that idle countdown resets, so it stays open as long as you're actually using it.
+>>>>>>> 94d66e0 (Update iOS build files to build 184)
 
 ---
 
