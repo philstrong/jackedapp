@@ -1,16 +1,18 @@
 # Jacked — Release Notes
 
+## Build 185 (v1.4.0 — June 23, 2026)
+
+**Your workout totals — Workouts, Streak, and average time — now live on your Profile, right above your milestones.**
+
+The three summary cards that tally how many workouts you've done, your current streak, and your average session length have moved off the History tab and onto your Profile, sitting just above the Milestones card — tap any of them for the same quick explainer as before. If you're in early access, we also tidied up the rest timer in the session map: the REST label now sits right above the countdown ring and UP NEXT above what's coming, so each label lines up with the thing it describes, and the ring quietly blends into the card while you rest instead of standing off it.
+
+---
+
 ## Build 184 (v1.4.0 — June 23, 2026)
 
-<<<<<<< HEAD
-**A rebuild of build 183 — same app, fresh upload, nothing new to see here.**
-
-No code changes in this one: it's build 183's exact code with a bumped build number, re-uploaded for testing. Everything you'd notice — the set-attribute tag menu, the tidied-up timed-move chips, and the History toggle moves for early access — already landed in build 183. Back to new features next.
-=======
 **For early access: the expanded session map now tucks itself away — tap anywhere outside it, or just leave it be, and it slides back to a slim bar.**
 
 If you're in early access, the session map — your whole workout laid out move-by-move — no longer waits for you to tap the chevron to close it. Tap anywhere outside the expanded view and it folds back down to its slim card, and if you leave it open without touching it for ten seconds it collapses on its own. Touch it again and that idle countdown resets, so it stays open as long as you're actually using it.
->>>>>>> 94d66e0 (Update iOS build files to build 184)
 
 ---
 
