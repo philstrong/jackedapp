@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 186 (v1.4.0 — June 25, 2026)
+
+**The session map and the Progress view are now open to everyone — plus pace on your cardio and a coach that's easier on your run-and-walk days.**
+
+The move-by-move session map and the Progress view — the charts that show how each of your exercises is trending, with badges for where your coach is steering you — were early-access only until now, and both are open to everyone in this build. We also added pace to your cardio: when a set has both a time and a distance, you'll see your pace (like 6:40/mi) right next to it on the Train card and in your History. Your coach is easier to deal with on cardio days too — after a quick "0.5 mi" it shows you how to log the rest instead of pelting you with follow-up questions — and an empty Progress tab now greets you with example charts so you can see what it does before you've logged a thing. One more fix: backing out of the purchase screen no longer pops a stray "Purchase failed" alert. And if you're in early access, Progress gains per-plan coaching reports — tap the sparkle on any plan with three or more logged sessions and your coach writes up a short read on how it's going, drawn from the same trends as your charts.
+
+---
+
 ## Build 185 (v1.4.0 — June 23, 2026)
 
 **Your workout totals — Workouts, Streak, and average time — now live on your Profile, right above your milestones.**
