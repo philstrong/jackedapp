@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 189 (v1.4.1 — June 26, 2026)
+
+**For early access: bring your history over from Strong or Hevy, so your coach knows your lifts from your very first set.**
+
+If you're in early access, Settings has a new "Import history" row. Point it at a workout export from Strong or Hevy — the CSV file those apps hand you when you export — and Jacked reads through it and folds those past sessions into your history, so your coach starts out already knowing what you've been lifting instead of treating day one like a blank slate. It lines the exercises from the other app up with Jacked's own, and anything it doesn't recognize it adds as a custom move so nothing gets dropped. You'll see a summary of what it found before anything is saved, and if it's not right you can undo the whole import in a single tap.
+
+---
+
 ## Build 188 (v1.4.0 — June 26, 2026)
 
 **Your coach now carries what you lifted last time into every message — so it stops treating a move you've already done as brand new partway through a workout.**
