@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 188 (v1.4.0 — June 26, 2026)
+
+**Your coach now carries what you lifted last time into every message — so it stops treating a move you've already done as brand new partway through a workout.**
+
+Before, your coach only pulled your history for each move at the very start of a session, so if you circled back to a lift later it could act like you'd never logged it — "first time on this one" — even when you had. Now it keeps your last sets for every move in front of it the whole time, so its weight and rep suggestions stay tied to what you've actually done all the way through. Two smaller touches in the session map: walking and other cardio moves now carry a "last time" line with your time, distance, and pace, the same way your lifts do, and skipping a long cardio move — say a 20-minute walk — now drops your time-left by its full length instead of trimming off just a minute or two.
+
+---
+
 ## Build 186 (v1.4.0 — June 25, 2026)
 
 **The session map and the Progress view are now open to everyone — plus pace on your cardio and a coach that's easier on your run-and-walk days.**
