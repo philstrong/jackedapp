@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 190 (v1.4.3 — June 27, 2026)
+
+**Swap an upcoming move you haven't started yet for a different exercise, right from your session map.**
+
+In the session map — your workout laid out move-by-move — any move you haven't logged a set on yet now carries a small swap button. Tap it, pick a different exercise, and it takes that move's place in your lineup; the swap sticks even if you close and reopen the app, so when you get there your coach sets you up on the new move just like any other. And if you're in early access, importing your history from Strong or Hevy now goes a step further — Jacked spots the routines you train regularly and offers to turn each one into a plan with a single tap, so you start out with your usual splits already built instead of recreating them by hand.
+
+---
+
 ## Build 189 (v1.4.1 — June 26, 2026)
 
 **For early access: bring your history over from Strong or Hevy, so your coach knows your lifts from your very first set.**
