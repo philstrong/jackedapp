@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 192 (v1.4.4 — June 28, 2026)
+
+**Two fixes to how your coach reads your sets — it stops calling you done early, and a bare rep reply keeps the weight you were already lifting.**
+
+If you regularly knock out four sets of a move but kept hearing "nice, you're done" at two or three, that's fixed: your coach now goes off the most sets you've done across recent sessions instead of your usual count, so it won't cut you short on the days you've got more in you. And if it ever lines up one set too many, just say "moving on" and it rolls with it. The second fix is about logging — when you'd been pressing a move at 80lb and the coach asked only for reps, firing back a bare "6" used to log that set at zero weight, wiping the 80 off your card and your progress for that lift. Now it carries the weight you were already using on that same move forward, so a quick rep reply logs the full set.
+
+---
+
 ## Build 191 (v1.4.4 — June 28, 2026)
 
 **Need one more set than the plan called for? Tap the + on the session map and it drops right into your lineup.**
