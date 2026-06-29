@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 191 (v1.4.4 — June 28, 2026)
+
+**Need one more set than the plan called for? Tap the + on the session map and it drops right into your lineup.**
+
+The slim session-map bar shows a row of dots for the sets you've got planned on your current move — now there's a + sitting right beside them. Tap it and another set slides into your lineup on the spot, so when you've got an extra one in you, you don't have to wrestle the app to log it. We also moved the swap and skip buttons to sit right next to each move's name in the expanded map, and you can now skip the move you're currently on, not just the ones ahead — either way your coach hears about it and picks up on the right exercise. One small fix: cardio distances that used to render as a long tail of decimals (0.6599999…) now show clean, like 0.66.
+
+---
+
 ## Build 190 (v1.4.3 — June 27, 2026)
 
 **Swap an upcoming move you haven't started yet for a different exercise, right from your session map.**
