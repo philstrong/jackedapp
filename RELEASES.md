@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 194 (v1.4.4 — June 29, 2026)
+
+**Bringing your past workouts over from Strong or Hevy is now open to everyone — and it's easier to find.**
+
+Importing your history used to be an early-access perk; now anyone can do it. If you've got an export from Strong or Hevy, Jacked reads through it and folds those past sessions into your history, so your coach starts out already knowing what you've been lifting. There's a new "Import workout history" button right under "Start your first workout" on the History tab when it's empty, so you can bring everything over before you log your first set — and it's still available any time from Settings.
+
+---
+
 ## Build 193 (v1.4.4 — June 29, 2026)
 
 **Importing your history now lets you pick exactly which routines turn into plans — and your Profile milestones are back to showing the full row.**
