@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 193 (v1.4.4 — June 29, 2026)
+
+**Importing your history now lets you pick exactly which routines turn into plans — and your Profile milestones are back to showing the full row.**
+
+If you're in early access and bringing your past workouts over from Strong or Hevy, the last step of the import now lays out every routine it spotted as a card you can tap to choose — Jacked pre-picks as many as you have open plan slots for, and if there's one you'd rather have instead, you can free up a slot by removing a plan you're not using right there on the screen. A couple of touches land for everyone too: the Milestones row on your Profile sometimes collapsed into a single oversized bubble, and now it always lays out the full set of six, while your milestone count sticks to this year's workouts so a big history import doesn't quietly inflate it. We also stretched how far back the app holds onto your sessions — from one year to two — so more of what you import stays put.
+
+---
+
 ## Build 192 (v1.4.4 — June 28, 2026)
 
 **Two fixes to how your coach reads your sets — it stops calling you done early, and a bare rep reply keeps the weight you were already lifting.**
