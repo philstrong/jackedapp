@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 195 (v1.4.4 — June 30, 2026)
+
+**The recap your coach gives you after you tap Finish now gets your sets — and how they stack up against last time — right.**
+
+Before, that after-workout wrap-up could jumble your numbers or invent a comparison — read back a couple of sets at 135 and a couple at 155 as some other mix, or tell you "bench's up across the board" on a day you'd purposely gone lighter. Now it reads your sets cleanly and only calls out what actually changed since last time, treating a lighter day as the smart deload it is instead of a slip. Your Progress charts got clearer too: your best set now stands out with a dashed ring and always spells out the full weight and reps behind it, with an extra gridline to make the weight scale easier to read. And if you're in early access, the per-plan coaching reports ease up on a lift that's only dipped a little when you've got a long run of sessions behind it — a small step back reads as a minor dip, not an alarm.
+
+---
+
 ## Build 194 (v1.4.4 — June 29, 2026)
 
 **Bringing your past workouts over from Strong or Hevy is now open to everyone — and it's easier to find.**
