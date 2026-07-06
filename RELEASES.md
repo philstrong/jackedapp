@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 196 (v1.4.5 — July 6, 2026)
+
+**Prefer tapping to talking? In early access you can now log a whole workout by tapping through your sets, no chat required.**
+
+The Choose Workout screen has a new Coach / Tap-to-log toggle for early-access members. Pick "Tap to log" and you get a full-screen view of your workout laid out set by set — each row shows what you did last time as a faint suggestion, and a single tap logs it and moves you on to the next, calling out how you stacked up as you go. You can slide over to live coaching any time mid-workout, and if you're logging an older session you can set its own date and time; when you wrap up, you get a quick recap of your stats and any personal bests or milestones you hit. We also tucked an Import shortcut into the "log a past workout" sheet on your History tab, so bringing your sessions over from Strong or Hevy is now reachable from one more place.
+
+---
+
 ## Build 195 (v1.4.4 — June 30, 2026)
 
 **The recap your coach gives you after you tap Finish now gets your sets — and how they stack up against last time — right.**
