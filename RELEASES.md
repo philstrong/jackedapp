@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 197 (v1.4.5 — July 6, 2026)
+
+**The Choose Workout screen got a clearer Start button, and if you log by tapping, that mode now sticks around after you close the app.**
+
+We reworked the top of the Choose Workout sheet: there's now one bold Start button that spells out exactly what it'll do — "Start [plan]" when you're heading into coaching, "Log [plan]" when you're tapping through your sets — with the early-access Coach / Tap toggle tucked neatly beside it. The whole sheet is slimmer too, so both rows of your plans stay in view without scrolling, the coach tip scrolls along with them instead of hogging the top, and you can swipe it down to dismiss. If you're logging by tapping and you close the app mid-workout, it now picks back up in tap-to-log mode instead of dropping you into chat. And one fix for tap-to-log: starting a walk or other cardio move you hadn't logged yet was pulling up the reps-and-weight keypad — now it opens the right time-and-distance one.
+
+---
+
 ## Build 196 (v1.4.5 — July 6, 2026)
 
 **Prefer tapping to talking? In early access you can now log a whole workout by tapping through your sets, no chat required.**
