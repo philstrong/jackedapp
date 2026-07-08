@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 198 (v1.4.5 — July 7, 2026)
+
+**In early access, you can now switch between coaching and tap-to-log without leaving your workout — and Jacked remembers which one you prefer.**
+
+Open up any move in your session and you'll spot a little coach switch on the card: leave it on for coached chat, or flip it off to just quietly tap your sets in. You can swap back and forth as much as you like mid-workout — your coach is always one tap away, and so is heads-down tap-logging. Whichever you land on sticks, too: close the app or start a fresh session and Jacked drops you right back into the mode you were using instead of always opening in chat. The Coach / Tap control on the Choose Workout screen now matches that same switch, and the picker sheet settled back to its steadier layout after the previous build's sizing tweaks were nudging the Train screen around.
+
+---
+
 ## Build 197 (v1.4.5 — July 6, 2026)
 
 **The Choose Workout screen got a clearer Start button, and if you log by tapping, that mode now sticks around after you close the app.**
