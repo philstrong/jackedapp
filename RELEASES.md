@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 200 (v1.4.5 — July 7, 2026)
+
+**Two small touch-ups to tap-to-log, so your "last time" numbers and comparisons read just like they do when you're coached.**
+
+If you log by tapping through your sets, the faint "last time" hint on each row now lines up exactly with what your coach shows you — and for any extra sets beyond what you did last session, it repeats that session's final set instead of going blank, so every row has a number to work from. We also cleared out the "= matched" tag that used to pop up whenever a set landed right on last time; now a set only flags a badge when you actually beat it or came up short, keeping the screen calmer.
+
+---
+
 ## Build 199 (v1.4.5 — July 7, 2026)
 
 **Tap one of Jacked's reminders and it now drops you straight onto the Train screen, ready to pick up your workout.**
