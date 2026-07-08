@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 199 (v1.4.5 — July 7, 2026)
+
+**Tap one of Jacked's reminders and it now drops you straight onto the Train screen, ready to pick up your workout.**
+
+When a nudge from Jacked lands on your phone and you tap it, the app opens right to Train instead of wherever you last left off — so you're one tap from getting started. Behind the scenes we also started keeping track of which reminders actually get you back in the gym, so over time we can send fewer of them and time them better.
+
+---
+
 ## Build 198 (v1.4.5 — July 7, 2026)
 
 **In early access, you can now switch between coaching and tap-to-log without leaving your workout — and Jacked remembers which one you prefer.**
