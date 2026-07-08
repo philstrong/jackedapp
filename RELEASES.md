@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 201 (v1.4.5 — July 8, 2026)
+
+**Wrap up a tapped-through workout and the recap now hands you more to celebrate — PRs, a jump in total work, milestones, and always at least one good word.**
+
+If you're in early access and log by tapping your sets, the little wrap-up you get when you hit Finish got a lot warmer. Instead of just your numbers, it now pulls the real wins out of the session — a new weight PR, when you moved more total than the last time you did this same workout, a session milestone you just crossed — and if none of those landed, it still gives you credit for the session and whatever streak you've got going. Your Volume stat spells out its unit now, too (lb or kg), so there's no second-guessing what the number means. A couple of other tap-to-log touches: your workout list stays pinned at the top instead of sliding away as you log, every set you tap in gives a little buzz, and the set it teed up next now mirrors the last one you actually did this session — so it eases off right along with you as you tire.
+
+---
+
 ## Build 200 (v1.4.5 — July 7, 2026)
 
 **Two small touch-ups to tap-to-log, so your "last time" numbers and comparisons read just like they do when you're coached.**
