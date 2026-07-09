@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 203 (v1.4.5 — July 8, 2026)
+
+**Tapping a different move in your workout now takes you straight to logging it, and adding a set no longer bumps you off the one you're on.**
+
+If you're in early access and log by tapping your sets, this one smooths out jumping around your workout. Before, tapping another move in your list could highlight it without actually switching what you're logging — or switch it without moving the highlight — so the two could drift out of step. Now they move together every time: tap any move and it lights up and is ready to log in one go. And tacking on an extra set with the **+** just adds the set, instead of quietly yanking you back to a different lift.
+
+---
+
 ## Build 202 (v1.4.5 — July 8, 2026)
 
 **Log by tapping? It now works a lot more like being coached — a rest timer between sets, an automatic hop to your next lift, and no more crash when you tap Finish.**
