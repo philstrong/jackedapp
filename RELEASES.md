@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 204 (v1.4.5 — July 9, 2026)
+
+**A quiet maintenance build — a little behind-the-scenes tidying, nothing new to spot up front.**
+
+No new features in this one. We did some housekeeping under the hood so switching between how you log and train stays smooth and predictable. Keep logging and training exactly as you did before.
+
+---
+
 ## Build 203 (v1.4.5 — July 8, 2026)
 
 **Tapping a different move in your workout now takes you straight to logging it, and adding a set no longer bumps you off the one you're on.**
