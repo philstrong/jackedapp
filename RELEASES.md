@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 205 (v1.4.5 — July 9, 2026)
+
+**A few finishing touches for tap-to-log — your workout list now slides open and closed instead of snapping, the rest countdown shows while you log, and each set's "last time" hint lines up set by set.**
+
+If you're in early access and log by tapping your sets, this build smooths out a handful of rough edges. Your workout list now animates open and closed however it collapses — tapping the chevron, tapping away, or letting it settle on its own — instead of jumping. The rest timer between sets now shows its countdown right at the top of your workout card while you tap-log, the same way it does when you're coached. And the faint "last time" hint on each row now mirrors exactly what you did set by set — warm-ups included — so a heavier opener and a lighter back-off set each show their own reps and weight instead of one flat number.
+
+---
+
 ## Build 204 (v1.4.5 — July 9, 2026)
 
 **A quiet maintenance build — a little behind-the-scenes tidying, nothing new to spot up front.**
