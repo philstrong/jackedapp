@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 202 (v1.4.5 — July 8, 2026)
+
+**Log by tapping? It now works a lot more like being coached — a rest timer between sets, an automatic hop to your next lift, and no more crash when you tap Finish.**
+
+If you're in early access and log by tapping your sets, this build closes a bunch of the gaps between tap-logging and being coached. Logging a set now kicks off the same two-minute rest timer your coach uses — the countdown shows right on your workout card and buzzes you when it's up — and once you've wrapped a move, Jacked walks you straight on to the next one you haven't done yet instead of jumping back up the list. There's a little **+** next to whatever you're logging to tack on an extra set, tapping a set you already logged now edits it in place instead of leaving a duplicate, and reps-only moves like pull-ups stop asking you for a weight. We also lined up how many sets tap-logging plans for you with what your coach would pick, so the two always agree, gave the finish recap a cleaner layout that can hand your session straight to your coach, and squashed a crash that was hitting about one in ten workouts right as you tapped Finish.
+
+---
+
 ## Build 201 (v1.4.5 — July 8, 2026)
 
 **Wrap up a tapped-through workout and the recap now hands you more to celebrate — PRs, a jump in total work, milestones, and always at least one good word.**
