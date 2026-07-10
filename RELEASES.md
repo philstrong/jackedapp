@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 210 (v1.4.5 — July 10, 2026)
+
+**Once you've moved on to the next exercise, you can tap a finished one to go back and fix a set you already logged.**
+
+If you're in early access and log by tapping your sets, this fixes going back. Before, once you logged a set and the workout moved you on to the next exercise, the one you just finished was locked — you couldn't tap it to check or fix what you'd entered. Now a completed exercise is tappable again: tap it and it reselects, your logged sets show back up, and you can tap any set to edit it. Coaching works exactly as before.
+
+---
+
 ## Build 209 (v1.4.5 — July 10, 2026)
 
 **When your workout list closes back up, it now folds down into the card instead of fading away in place.**
