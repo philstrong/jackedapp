@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 209 (v1.4.5 — July 10, 2026)
+
+**When your workout list closes back up, it now folds down into the card instead of fading away in place.**
+
+A small animation touch-up. When you've got your list of moves expanded and it collapses — whether you tap the chevron, tap away, or let it settle on its own — the timeline now folds up vertically into the collapsed card rather than fading out where it sits. It reads as one piece tucking away instead of two things happening at once. Nothing about how you log or train changed; it just moves a little more naturally.
+
+---
+
 ## Build 208 (v1.4.5 — July 10, 2026)
 
 **The wrap-up you get after a tapped-through workout is a touch tidier — the three stat cards line up cleanly and a big Volume number reads as something like 12.3K instead of running long.**
