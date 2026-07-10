@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 211 (v1.4.5 — July 10, 2026)
+
+**A couple of fixes for tap-to-log: your expanded list of moves stays visible, and the rest countdown moves off the session clock so both are readable again.**
+
+If you're in early access and log by tapping your sets, this build sorts out two rough edges from the last few updates. The fold-up animation we added a couple builds back could leave your list of moves blank after it collapsed — it would tuck away fine but come back empty when you opened it again — so we've pulled the animation out and the list snaps open and closed reliably like it used to. And the rest countdown between sets, which had been sitting at the top of your workout card in place of the session clock, now shows down by the chat bar instead — the same spot it uses when you're being coached — so your session clock is back in the header where it belongs.
+
+---
+
 ## Build 210 (v1.4.5 — July 10, 2026)
 
 **Once you've moved on to the next exercise, you can tap a finished one to go back and fix a set you already logged.**
