@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 207 (v1.4.5 — July 10, 2026)
+
+**Logging a timed move now works like a stopwatch — punch in minutes and seconds instead of just whole minutes — and your progress report closes with a tap outside it.**
+
+When you log something measured by time — a run, a carry, a timed hold — the number pad now reads as **MM:SS**, so a 10-minute-34-second effort goes in as `10:34` instead of rounding off to whole minutes. Type the digits like a stopwatch and they fill in from the right; the plus and minus buttons still nudge a minute at a time without touching your seconds. And if you're in early access and pop open a progress report, you can now tap anywhere outside it to close it, the same as the app's other sheets.
+
+---
+
 ## Build 206 (v1.4.5 — July 9, 2026)
 
 **Setting when a workout happened is tidier now — the same date and time picker shows up whether you're logging one by hand or fixing a past session, and neither will let you pick a time that hasn't happened yet.**
