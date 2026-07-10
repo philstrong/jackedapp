@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 208 (v1.4.5 — July 10, 2026)
+
+**The wrap-up you get after a tapped-through workout is a touch tidier — the three stat cards line up cleanly and a big Volume number reads as something like 12.3K instead of running long.**
+
+If you're in early access and log by tapping your sets, the finish recap got a small cosmetic polish. The Volume, sets, and duration cards now sit on the same line no matter how wide each number is, so their labels all line up instead of one drifting down a row. And a hefty Volume total gets shortened — 12,345 shows as **12.3K** — so the three numbers stay compact and evenly sized. Nothing about how you log changed; it just looks neater.
+
+---
+
 ## Build 207 (v1.4.5 — July 10, 2026)
 
 **Logging a timed move now works like a stopwatch — punch in minutes and seconds instead of just whole minutes — and your progress report closes with a tap outside it.**
