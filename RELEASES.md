@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 206 (v1.4.5 — July 9, 2026)
+
+**Setting when a workout happened is tidier now — the same date and time picker shows up whether you're logging one by hand or fixing a past session, and neither will let you pick a time that hasn't happened yet.**
+
+When you set the date and start time for a workout — logging one yourself or editing an old session in History — you now get the same native calendar and time spinner in both places, instead of two different pickers. Manual logging drops its old shortlist of "yesterday / two days ago" shortcuts and rough time chips for that same calendar, so landing on an exact day and time is easier. And both pickers now stop at the current moment, so you can't accidentally set a workout for later today or some day down the road.
+
+---
+
 ## Build 205 (v1.4.5 — July 9, 2026)
 
 **A few finishing touches for tap-to-log — your workout list now slides open and closed instead of snapping, the rest countdown shows while you log, and each set's "last time" hint lines up set by set.**
