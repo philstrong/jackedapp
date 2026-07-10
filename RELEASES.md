@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 212 (v1.4.5 — July 10, 2026)
+
+**One more tidy-up on the workout wrap-up — each big stat number now sits centered in its card instead of hugging the left edge.**
+
+If you're in early access and log by tapping your sets, this is a tiny cosmetic touch to the finish recap. The three stat cards were already lined up neatly, but the Volume, sets, and duration numbers themselves were pinned to the left. Now each one sits centered under its label, so the whole row reads balanced. Nothing about how you log or train changed.
+
+---
+
 ## Build 211 (v1.4.5 — July 10, 2026)
 
 **A couple of fixes for tap-to-log: your expanded list of moves stays visible, and the rest countdown moves off the session clock so both are readable again.**
