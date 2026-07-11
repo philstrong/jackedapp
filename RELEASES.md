@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 213 (v1.4.5 — July 11, 2026)
+
+**The tap-to-log screen got a design pass — a cleaner switch between having your coach walk you through a session and tapping through it yourself, clearer icons in your list of moves, and little pencils that show exactly where to tap to fix a set.**
+
+If you're in early access and log by tapping your sets, this build tidies up how the whole thing looks. Picking between a coached session and tapping through it yourself is now a simple side-by-side toggle, your list of moves picked up small icons so each one's easier to spot at a glance, and every value you've logged shows a tiny pencil next to it — including the empty placeholder rows for sets you haven't filled in yet — so it's obvious you can tap to change it. We also cleaned up a few smaller things: timed moves now keep their seconds instead of rounding off, an exercise you tap back to revisit stays marked as done rather than flipping to "current," and cardio set counts read from your last session properly. And there are six new tips sprinkled through the app pointing out things like tap-to-log, set tags, importing your history, and the progress charts.
+
+---
+
 ## Build 212 (v1.4.5 — July 10, 2026)
 
 **One more tidy-up on the workout wrap-up — each big stat number now sits centered in its card instead of hugging the left edge.**
