@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 215 (v1.4.5 — July 13, 2026)
+
+**The automatic next-time weight bump we added last build now only kicks in when your coach is running the session — tap through a workout on your own and your target just mirrors what you last did.**
+
+Last build Jacked started setting a target for your next session — nudge the weight up, hold steady, or ease off — and writing it straight into your plan. This build settles who gets the automatic bump: it's a coached thing. When your coach walks you through a session, the weight still steps up once you've earned it; when you tap-log a workout yourself, your next target simply repeats what you last hit instead of pushing the number up on its own. We also cleaned up a small edge case — a weighted move you'd logged without actually punching in a weight could show a nonsense rep target, and now it just leaves the target blank instead.
+
+---
+
 ## Build 214 (v1.4.5 — July 13, 2026)
 
 **When you finish a workout, Jacked now sets your target for next time — a little heavier, hold steady, or back off — and saves it right into your plan, so each move shows what you last did and what you're aiming for.**
