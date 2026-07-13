@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 214 (v1.4.5 — July 13, 2026)
+
+**When you finish a workout, Jacked now sets your target for next time — a little heavier, hold steady, or back off — and saves it right into your plan, so each move shows what you last did and what you're aiming for.**
+
+Finish a strength session and Jacked looks at what you just lifted and works out where each move should go next time — nudge the weight up, keep it where it is, or ease off — then writes that target straight into your plan. Open the plan and every move now shows a "Last … · Target …" line, so you can see at a glance what you hit last session and what you're chasing next. The number comes from the same progression logic the app already uses, not a guess. We also tidied up a few early-access corners: finishing a tap-to-log workout without logging a single set no longer saves a blank session or pops a recap — it just steps aside — your progress reports now weigh a move's full history when they spot trends, and when there's nothing worth reporting yet you get a proper explainer instead of a line of red text. The coached-versus-tap-it-yourself switch also picked up a clearer hand-tap icon.
+
+---
+
 ## Build 213 (v1.4.5 — July 11, 2026)
 
 **The tap-to-log screen got a design pass — a cleaner switch between having your coach walk you through a session and tapping through it yourself, clearer icons in your list of moves, and little pencils that show exactly where to tap to fix a set.**
