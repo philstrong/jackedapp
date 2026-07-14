@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 216 (v1.4.5 — July 14, 2026)
+
+**The automatic next-time weight bump isn't locked to coached sessions anymore — tap through a workout yourself and your targets can still step up.**
+
+Last build we tied the automatic weight bump to coached sessions: your coach walking you through a workout would nudge the weight up, but tap through one yourself and your next target just repeated what you last hit. This build lifts that restriction — progression now follows your plan rather than how you happened to log. So when you've earned a heavier target, you get it whether your coach ran the session or you tapped through it on your own.
+
+---
+
 ## Build 215 (v1.4.5 — July 13, 2026)
 
 **The automatic next-time weight bump we added last build now only kicks in when your coach is running the session — tap through a workout on your own and your target just mirrors what you last did.**
