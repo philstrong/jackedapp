@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 217 (v1.4.5 — July 15, 2026)
+
+**Every next-time weight target picked up a tappable coach call — a little pill that has Jack or Kelly explain, in their own voice, why a lift is stepping up or easing off.**
+
+Wherever Jacked shows a target — on the logging screen and in your plan — you'll now see a small pill next to any lift with a call: green when the weight's going up, orange when it's easing off, nothing when you're holding steady. Tap it and your coach talks you through the call in their own voice, built from the actual numbers you've been lifting. The target itself is now a Pro feature — paid members see the number, and free members get a lock that opens an upsell showing how many of today's lifts have a weight call waiting. We also tidied up editing a past workout: its date, start time, and duration are now three separate taps instead of one crowded screen with the number pad always up, and the date/time picker finally closes when you're done with it.
+
+---
+
 ## Build 216 (v1.4.5 — July 14, 2026)
 
 **The automatic next-time weight bump isn't locked to coached sessions anymore — tap through a workout yourself and your targets can still step up.**
