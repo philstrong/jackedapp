@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 218 (v1.4.5 — July 17, 2026)
+
+**Logging a workout by tapping through your sets is out of early access — it's now free for everyone.**
+
+Up to now, tapping through a workout to log it yourself was an early-access feature. This build opens it to everyone at no cost: pick "tap it yourself" in the logger and you can run and record a whole session without a subscription. Coaching — your coach walking you through a session, your written progress reports, and the coach remembering your history across sessions — is what a subscription now unlocks. We also cleaned up a handful of things along the way: when your coach is targeting a heavier weight next time, the one-tap prefill now offers that new number instead of quietly repeating your last one, so tapping it doesn't miss the bump; beating last time's reps at the same weight now shows up as progress on your logged set; the mid-session "View plan" peek shows your targets (or the right lock) correctly again; an edited session's duration is capped at a sensible three hours instead of running to absurd values; and the "ready to try" nudge that had been silently failing to send now actually reaches people.
+
+---
+
 ## Build 217 (v1.4.5 — July 15, 2026)
 
 **Every next-time weight target picked up a tappable coach call — a little pill that has Jack or Kelly explain, in their own voice, why a lift is stepping up or easing off.**
