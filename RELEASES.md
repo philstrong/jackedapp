@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 219 (v1.4.5 — July 17, 2026)
+
+**You can now tell Jacked how much the weights at your gym actually jump, so a heavier next-time target matches your dumbbells or machine stack instead of always assuming five pounds.**
+
+Until now, when Jacked bumped your target for next time it always stepped up by five pounds — but that's not how every gym works. Some dumbbells go up in 2.5s, a machine stack might jump ten. There's a new "Weight increments" section in Settings with two pickers, one for free weights and one for machines and cables, and whatever you pick is the size of step Jacked uses when it nudges a target up or eases one off. It defaults to five, so nothing changes unless you go set it. We also fixed up progress reports: the report you tap into now scrolls properly, so you can read the whole thing and reach your earlier reports underneath, and when a plan isn't ready for a fresh report yet it now always tells you exactly how many more sessions to log.
+
+---
+
 ## Build 218 (v1.4.5 — July 17, 2026)
 
 **Logging a workout by tapping through your sets is out of early access — it's now free for everyone.**
