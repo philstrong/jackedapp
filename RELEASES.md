@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 220 (v1.4.5 — July 17, 2026)
+
+**When you log on your own without a subscription and slide the session over to your coach, you now get the same gentle preview of what coaching offers instead of jumping straight to the full subscription screen.**
+
+If you tap through your workouts yourself, there's a slide control that hands the session over to your coach. Completing that swipe used to drop you straight onto the full subscription screen — even though the coach-mode switch right next to it showed a softer preview of what coaching unlocks. Now both behave the same way: sliding over shows that same gentle preview, so the hand-off feels consistent however you reach for it.
+
+---
+
 ## Build 219 (v1.4.5 — July 17, 2026)
 
 **You can now tell Jacked how much the weights at your gym actually jump, so a heavier next-time target matches your dumbbells or machine stack instead of always assuming five pounds.**
