@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 224 (v1.4.5 — July 18, 2026)
+
+**A workout you log with no signal now backs itself up on its own the moment you're back online, instead of waiting around for the next sync.**
+
+Logging a workout has always worked with no connection — you can run and record a whole session offline. The catch was that if the upload happened to fail while you were out of range, that session just sat on your phone until something else synced it later. This build makes it retry on its own: as soon as your connection returns, or you reopen the app, any session that didn't make it up gets backed up automatically. And it does so safely — a workout you logged on another device while this one was offline won't get overwritten in the process.
+
+---
+
 ## Build 223 (v1.4.5 — July 18, 2026)
 
 **The coaching preview that slides up when you reach for the coach can now be swiped down to close, the same way you close the Choose Workout sheet.**
