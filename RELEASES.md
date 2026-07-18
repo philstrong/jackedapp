@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 223 (v1.4.5 — July 18, 2026)
+
+**The coaching preview that slides up when you reach for the coach can now be swiped down to close, the same way you close the Choose Workout sheet.**
+
+When you head toward coaching without a subscription, a preview slides up showing what your coach unlocks. Until now you closed it with the button on the sheet — this build lets you just flick it down with your finger, matching the gesture we added to the Choose Workout sheet last build. Drag it partway and let go and it springs back, pull it past halfway and it slides the rest of the way closed. Every button on the preview still works as before — the subscribe call, "see all," "keep it free," and the legal links all stay tappable.
+
+---
+
 ## Build 222 (v1.4.5 — July 18, 2026)
 
 **You can now swipe the Choose Workout sheet down to close it, instead of hunting for the little X.**
