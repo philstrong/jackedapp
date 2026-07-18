@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 222 (v1.4.5 — July 18, 2026)
+
+**You can now swipe the Choose Workout sheet down to close it, instead of hunting for the little X.**
+
+When you go to start a session, the Choose Workout sheet slides up over your screen. Until now the only way out was the X in the corner. This build lets you just flick the sheet down with your finger to dismiss it — drag it partway and let go and it springs back, pull it past halfway and it slides the rest of the way closed. The plan list underneath still scrolls normally, and the X, import, and settings buttons all still work as before.
+
+---
+
 ## Build 220 (v1.4.5 — July 17, 2026)
 
 **When you log on your own without a subscription and slide the session over to your coach, you now get the same gentle preview of what coaching offers instead of jumping straight to the full subscription screen.**
