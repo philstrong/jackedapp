@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 225 (v1.4.6 — July 18, 2026)
+
+**A shaky connection at the wrong moment — like right as you finish a workout — no longer lets a stray "network request failed" error slip through.**
+
+Jacked fires off a couple of quiet background requests as you use the app — one to note what you did, one to keep your profile up to date — and neither is meant to bother you if it can't get through. A weak signal at the wrong moment used to let one of those surface as an error instead of failing silently. This build makes them fail quietly the way they always should have, so a dropped connection while you're wrapping up a session stays out of your way.
+
+---
+
 ## Build 224 (v1.4.5 — July 18, 2026)
 
 **A workout you log with no signal now backs itself up on its own the moment you're back online, instead of waiting around for the next sync.**
