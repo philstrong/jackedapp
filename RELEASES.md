@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 226 (v1.4.6 — July 19, 2026)
+
+**The progress charts got a proper clean-up — real dates along the bottom, your best number called out up top, and long histories you can scroll back through.**
+
+The charts on your Progress tab now label the bottom edge with actual dates, so you can see when a session happened instead of counting across from the end. Your best number for a lift is pinned at the top of the chart so the ceiling is always readable, and the horizontal guide lines now land on plate-real numbers — 2.5, 5, 10 — instead of whatever the math happened to land on. Pull-ups, dips, and the like now chart your reps rather than a weight, and the machine-assisted versions show the assist as a negative so more help reads as less progress. And once a lift has enough sessions to get crowded, its chart scrolls sideways: it opens on your latest session and you can drag back through the history, with the numbers up the left side staying put while the chart slides underneath.
+
+---
+
 ## Build 225 (v1.4.6 — July 18, 2026)
 
 **A shaky connection at the wrong moment — like right as you finish a workout — no longer lets a stray "network request failed" error slip through.**
