@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 227 (v1.4.6 — July 20, 2026)
+
+**Your Profile tab is now two tidy pages — one for you and your coach, one for all your settings — with a single tap in the corner to flip between them.**
+
+The Profile tab used to be one long scroll that mixed who you are in with every setting in the app. This build splits it: a little person-and-cog toggle up top flips between a Profile page — your name, your coach, and a single card holding your workout count, week streak, and average session time (each still taps to explain itself), plus your milestones — and a Settings page that gathers everything else in one place: units, the rest-timer bell, haptics, weight increments, import and export, and sign-out. Switching coaches now opens a clean pop-up picker instead of a row of tiles. We also put each plan's muscle focus right on the Plans list — "arms, chest, shoulders" reads on the row the same way it does on the workout cards, and groups like "full body" now show in plain words instead of a code-ish "fullBody." And two coaching fixes from live testing: your coach now reads the exact route on your screen, so it no longer loses track of which set you're on, and you can tap back to a lift you already finished to add one more set mid-session — your coach counts the extra instead of calling the exercise done.
+
+---
+
 ## Build 226 (v1.4.6 — July 19, 2026)
 
 **The progress charts got a proper clean-up — real dates along the bottom, your best number called out up top, and long histories you can scroll back through.**
