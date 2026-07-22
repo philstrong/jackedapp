@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 229 (v1.4.6 — July 21, 2026)
+
+**A quiet maintenance build — some behind-the-scenes tidying, nothing new to spot up front.**
+
+No new features in this one. We did some housekeeping under the hood so walks, runs, and other cardio are counted properly alongside your lifts. Everything you'd notice is already in place from build 228 — keep logging and training exactly as you did before.
+
+---
+
 ## Build 228 (v1.4.6 — July 21, 2026)
 
 **You can now add a lift to a session straight from the list of exercises on your screen — in coached sessions too, not just when you're tapping through it yourself.**
