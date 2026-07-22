@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 230 (v1.4.7 — July 22, 2026)
+
+**Pull-ups, push-ups, and dips finally count toward your volume — and your coach stops telling you you've finished a walk you haven't started.**
+
+Bodyweight movements used to score zero volume, because there was no weight on the bar — so a session full of pull-ups looked like you'd barely lifted. Now your own body weight counts toward the total, and if we don't have your weight on file yet, a small prompt appears on the Train screen the first time you log a bodyweight set. Whatever you enter gets pinned to each session as you finish it, so past workouts keep their numbers even as your weight changes. Your coach also picked up three fixes from a read-through of a few weeks of real conversations: it no longer treats a walk or run you haven't started as already done, it reads back the weight and reps you actually called out instead of the ones it prescribed, and it stops re-announcing a lift from the top every time you circle back to it. And editing a logged workout — adding an exercise, deleting a set — no longer snaps back to the old version if a background sync happens to land at the same moment.
+
+---
+
 ## Build 229 (v1.4.6 — July 21, 2026)
 
 **A quiet maintenance build — some behind-the-scenes tidying, nothing new to spot up front.**
