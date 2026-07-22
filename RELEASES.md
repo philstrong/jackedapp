@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 228 (v1.4.6 — July 21, 2026)
+
+**You can now add a lift to a session straight from the list of exercises on your screen — in coached sessions too, not just when you're tapping through it yourself.**
+
+If a machine's taken or you just feel like throwing in an extra lift, there's now an "Add exercise" row at the bottom of your session's exercise list. It shows up whether your coach is running the session or you're logging it yourself — coached sessions had no way to add anything before, and when logging on your own it sat off on its own row under the lift you were on. Your coach picks up the addition on its own, so you don't have to say anything. And if you change your mind before you've started that new lift, the × next to it now takes it off the list entirely instead of leaving it struck through as skipped — lifts that were in your plan to begin with still get the old skip treatment.
+
+---
+
 ## Build 227 (v1.4.6 — July 20, 2026)
 
 **Your Profile tab is now two tidy pages — one for you and your coach, one for all your settings — with a single tap in the corner to flip between them.**
