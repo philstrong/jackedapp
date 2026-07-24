@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 232 (v1.4.7 — July 24, 2026)
+
+**Finishing a coached workout now brings up the same recap card you get when you log on your own — and every completed session in your history shows its total volume.**
+
+When you wrapped up a coached session, your coach read you a recap in the chat and that was it — the recap card with your stats, your wins, your coach's read, and a link to your progress report only appeared when you logged a session yourself. Now both kinds of finish open the same card, and the coach's read streams into your Train chat at the same time either way. We also added a total-volume number to each completed session on the History screen — it sits alongside the exercises, sets, and reps counts at the bottom of the card and folds in your body weight the same way the finish recap does. Cardio-only sessions, which have no volume to show, simply leave it off.
+
+---
+
 ## Build 231 (v1.4.7 — July 24, 2026)
 
 **The bodyweight work we added last build now counts and reads right everywhere — and finishing your lifts out of order no longer ends your session early.**
