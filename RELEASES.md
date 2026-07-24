@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 231 (v1.4.7 — July 24, 2026)
+
+**The bodyweight work we added last build now counts and reads right everywhere — and finishing your lifts out of order no longer ends your session early.**
+
+Last build gave pull-ups, push-ups, and dips real volume, but a couple of gaps slipped through: when you logged on your own, the "add your weight" prompt sometimes didn't appear and those sets still counted as nothing, and in a few spots a bodyweight set showed up as a broken "18 × 0 lb." Both are fixed — bodyweight sets now read as plain reps ("18 reps") on the Train screen, in your history, and in your coach's wrap-up, and they count toward your total no matter how you log them. Your coach's end-of-session recap now folds that body weight into the total too, so it can't headline "volume up" on the card and then talk past it. And if a machine's taken and you finish a later lift before an earlier one, the app no longer calls the whole session done — the rest timer stays put, the "session complete" banner holds off until you've actually worked through what's left, and logging that last set clears it.
+
+---
+
 ## Build 230 (v1.4.7 — July 22, 2026)
 
 **Pull-ups, push-ups, and dips finally count toward your volume — and your coach stops telling you you've finished a walk you haven't started.**
