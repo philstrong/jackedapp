@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 233 (v1.4.7 — July 25, 2026)
+
+**The recap card you get at the end of a workout now closes with a swipe or a corner X — and your coach picked up a run of fixes that make it sharper from the very first message of a session.**
+
+The recap card that slides up when you finish a workout used to strand you if its Done button sat below the fold — there was no way to swipe it away and no X to reach for. Now you can flick it down, tap the dimmed area behind it, or hit an X pinned to the top corner that never scrolls out of sight. On the coaching side, a session sometimes opened with your coach not actually holding your profile — it was getting quietly dropped on the way in, so that first reply could read a little generic; now your coach starts every session knowing who it's talking to. A couple of conversation fixes came along too: when you log a walk or run, your coach takes whatever you give it — distance or time — as a complete report instead of nagging for the part you left out, and before it asks what weight you're starting a lift at, it checks your history first so it can pick up where you left off. And importing a workout history no longer risks colliding with a background backup, so nothing you bring in — or already had — can slip through the cracks in the shuffle.
+
+---
+
 ## Build 232 (v1.4.7 — July 24, 2026)
 
 **Finishing a coached workout now brings up the same recap card you get when you log on your own — and every completed session in your history shows its total volume.**
