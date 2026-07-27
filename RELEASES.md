@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 235 (v1.4.7 — July 27, 2026)
+
+**When you move to a new lift and just call out reps, the app no longer fills in a weight you never said.**
+
+If you finished leg press at 200 and then said "10 reps" on the leg extension, your set could land in the log at 200 lb — the weight carried over from the lift you'd just done, on a machine you hadn't put a number to yet. It only happened on a brand-new exercise where nothing had been logged and your coach hadn't set a target, but when it did, it quietly wrote a number you never gave it. Now the app leaves that weight blank instead of guessing, so you can fill it in yourself and your totals stay honest. The rest of this build is behind the scenes — every event we log now carries the app version it came from, so we can tell whether a fix has actually reached you.
+
+---
+
 ## Build 234 (v1.4.7 — July 26, 2026)
 
 **Every pop-up card in the app now closes the same way — flick it down, tap the dimmed area behind it, or reach for the X in the corner.**
