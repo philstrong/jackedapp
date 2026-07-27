@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 234 (v1.4.7 — July 26, 2026)
+
+**Every pop-up card in the app now closes the same way — flick it down, tap the dimmed area behind it, or reach for the X in the corner.**
+
+Last build gave the end-of-workout recap a swipe-down and an X; this build takes that everywhere else. The workout picker, the rest-timer explainer, your history stat cards, the milestone list, the coach picker, add-a-plan, your display name, sign-out and delete-account all behave the same way now — and the ones holding more than fits on screen, like the recap and your full milestone list, actually scroll instead of sitting stuck. The rest-timer explainer also got a little smarter: it's now reachable when you're logging on your own, not just in a coached session, and it only opens when a timer is genuinely counting down instead of any time you tapped that row. A few smaller things came along too — tapping the "lb" next to a number no longer flips you to kilos mid-log (that choice lives in Settings), lowering a weight you'd already logged now updates its PR badge instead of leaving a stale one, and for a cardio, plank, or carry — the moves with no tap-to-log chips — the chat box shows you how to log it, like "Log 27:00 · 1.5 mi." And an edit you make to a session you're still in the middle of now gets timestamped properly, so a background backup can't quietly roll it back.
+
+---
+
 ## Build 233 (v1.4.7 — July 25, 2026)
 
 **The recap card you get at the end of a workout now closes with a swipe or a corner X — and your coach picked up a run of fixes that make it sharper from the very first message of a session.**
