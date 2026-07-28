@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 236 (v1.4.7 — July 28, 2026)
+
+**The "how to log this" hint in the chat box is short enough to actually read now — and a one-mile walk no longer reads "1 miles."**
+
+For the moves with no tap-to-log chips — a walk, a run, a plank, a carry — the chat box shows you what to say to log it. It used to read "Log 20 min · 1 miles or message Kelly…", which was longer than the one-line box, so the end of it got cut off. Now it's just "hint: 10:15 1 mi" — the time in clock form, a short unit, and it fits. The "1 miles" slip is fixed everywhere else it showed up too, so a one-mile walk reads "1 mile" on your history and session cards and in the edit sheet.
+
+---
+
 ## Build 235 (v1.4.7 — July 27, 2026)
 
 **When you move to a new lift and just call out reps, the app no longer fills in a weight you never said.**
