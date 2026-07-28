@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 237 (v1.4.7 — July 28, 2026)
+
+**The rest timer now chimes when you're logging on your own, not just in a coached session.**
+
+If you were tap-logging your sets and left the phone sitting face-up on the bench, the rest timer would run out in silence — no chime, no buzz. It only ever rang if you'd locked the phone or switched apps, or if you were in a coached session. Now the bell and the haptic fire in both modes with the app open, and it still skips the in-app chime when your phone already dinged you in the background, so you don't get hit twice for the same rest.
+
+---
+
 ## Build 236 (v1.4.7 — July 28, 2026)
 
 **The "how to log this" hint in the chat box is short enough to actually read now — and a one-mile walk no longer reads "1 miles."**
