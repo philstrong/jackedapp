@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 238 (v1.4.7 — July 29, 2026)
+
+**Skip ahead when a machine's taken and the session list reorders to follow you — so your coach stops calling the workout done while you've still got lifts left.**
+
+If the bench was busy and you jumped to the last thing on your plan, the list stayed in its original order, and your coach saw you at the bottom of it and wrapped the session up — even though the bench was still waiting for you. Now tapping an exercise lifts it up the tree right away, so the list reads top to bottom as what you've finished, what you're part-way through, what you're on now, and what's left, with the rows gliding into place instead of jumping. Your coach reads that same list, so anything you moved past is still sitting there and it keeps working through it with you. Two coaching fixes came along too: logging a warmup no longer makes your coach restart the count and ask for an extra set at the end of a lift (warmups still stay out of your progression), and if you call out the weight in one message and the reps in the next, that weight stays on the set instead of getting dropped.
+
+---
+
 ## Build 237 (v1.4.7 — July 28, 2026)
 
 **The rest timer now chimes when you're logging on your own, not just in a coached session.**
