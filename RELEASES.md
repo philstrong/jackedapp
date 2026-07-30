@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 241 (v1.4.7 — July 30, 2026)
+
+**Adding an exercise mid-workout no longer crashes the app.**
+
+Since the last couple of builds, the session list has been rearranging itself as you work — lifting the exercise you tapped up the tree, sliding finished ones into the order you did them. The rows were gliding into their new spots, and that glide was crashing the app outright when a row got added or moved at the wrong moment. Adding an exercise to a live session was the easiest way to hit it. The animation is gone for now, so the list snaps into its new order instead of sliding — everything still reorders exactly the same way, it just moves in one step. We'll bring the glide back once it's built on something that won't take the app down with it.
+
+---
+
 ## Build 240 (v1.4.7 — July 30, 2026)
 
 **Lifts you've finished now sit in the order you actually did them, so your session list and your history tell the same story.**
