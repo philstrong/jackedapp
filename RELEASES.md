@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 239 (v1.4.7 — July 30, 2026)
+
+**Tapping ahead to another exercise now moves you there instantly, instead of waiting on your coach to catch up.**
+
+Last build let you skip to a different lift when a machine was taken, and the session list reordered to follow you. But the "you're here" marker and the tap-to-log chips above the chat box stayed parked on the lift you'd just left until your coach's reply came back — so for a second or two you'd be looking at the new exercise with the old one's rep buttons underneath it. Now the tap moves all of it at once: the pointer, the chips, and the list. Your coach catches up a moment later and picks up its prescribed reps and weight from there, same as before.
+
+---
+
 ## Build 238 (v1.4.7 — July 29, 2026)
 
 **Skip ahead when a machine's taken and the session list reorders to follow you — so your coach stops calling the workout done while you've still got lifts left.**
