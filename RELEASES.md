@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 240 (v1.4.7 — July 30, 2026)
+
+**Lifts you've finished now sit in the order you actually did them, so your session list and your history tell the same story.**
+
+If you worked your plan out of order — Arnold press before bench, say — the finished part of the session list still snapped back to the order the plan had them in. So Train read "Bench, Arnold" while your history read "Arnold, Bench" for the same workout, which made it hard to tell what you'd actually already done. Now a finished lift stays where you did it, top to bottom in completion order, matching what you see in History. Anything you haven't started yet still sits in plan order, waiting for you.
+
+---
+
 ## Build 239 (v1.4.7 — July 30, 2026)
 
 **Tapping ahead to another exercise now moves you there instantly, instead of waiting on your coach to catch up.**
