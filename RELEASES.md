@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 242 (v1.4.7 — July 30, 2026)
+
+**When your coach moves you to the next lift, the "you're here" marker moves with it — instead of staying parked on one you only glanced at.**
+
+A few builds back, tapping an exercise started moving the pointer instantly, without waiting on your coach. The catch was that an old tap could outrank a newer instruction: if you peeked at squats mid-session and your coach then moved you on to RDLs, the header could sit on "Squat, set 2 of 3" while the chat, the tap-to-log chips, and everything getting logged had all correctly moved to RDLs. It only straightened itself out once your next set landed. Now a fresh move from your coach clears the stale tap so it all points at the same lift, and tapping still jumps you there right away, same as before. Your coach also got better at bodyweight moves — pull-ups, dips and the like no longer come back with a meaningless "0 lb" to hit, just a rep target, which also stops the previous exercise's rep count from tagging along.
+
+---
+
 ## Build 241 (v1.4.7 — July 30, 2026)
 
 **Adding an exercise mid-workout no longer crashes the app.**
