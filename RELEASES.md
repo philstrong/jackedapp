@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 243 (v1.4.8 — August 5, 2026)
+
+**Tap-to-log got real controls — nudge the reps or the weight right above the chat box, then hit the check to log the set.**
+
+For anything you count in reps, the row of suggested rep buttons has been replaced with a compact set of controls sitting just above where you type: minus/plus on the reps, your weight beside them, and a green check to log it. It starts on whatever your coach prescribed, so hitting the number exactly is still a single tap — but if you squeezed out an extra rep or went up five pounds, you can dial it in first instead of typing out a message. Tap either number and the full-size editor opens with those values already in it; saving from there logs the set exactly the same way, coach reply and all. Bodyweight moves show reps only, and timed and cardio work keeps its old buttons for now. The sheet you get when you finish a workout was rebuilt too — a proper little celebration, your totals counting up next to how they stacked against last time, your wins for the session, and your coach's read on it along with what it's lining up for you next.
+
+---
+
 ## Build 242 (v1.4.7 — July 30, 2026)
 
 **When your coach moves you to the next lift, the "you're here" marker moves with it — instead of staying parked on one you only glanced at.**
