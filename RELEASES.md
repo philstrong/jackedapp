@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 244 (v1.4.8 — August 7, 2026)
+
+**The set editor got rebuilt around one number at a time — a stepper, quick jump sizes, and a keypad when you'd rather just type it — and it's now what opens everywhere you edit a set.**
+
+Instead of the old two-column keypad, tapping a number opens a card right above the chat box with that field already selected: a big value, minus and plus on either side, and a row of jump sizes underneath — reps by 1, 2 or 5, weight by 2.5 up to 45 — so going from 135 to 185 is a couple of taps. Tap the value itself and the keypad drops in if you'd rather type it outright, and tapping anywhere outside puts the editor away. Each field has a small × to clear it back to zero, and on a lift you'd normally do with just your bodyweight, a cleared weight reads "BW" instead of 0. The same editor now covers all three places you'd change a set — a logged card mid-session, a set you're adding by hand, and going back to fix a workout from History — and backing out with unsaved changes asks before it throws them away. Adding a set to a lift got two fixes too: the controls now come up in the shape of the exercise you're actually on, seeded with what you just did this session rather than last week's target, and the extra set properly shows up as a pending bubble instead of quietly doing nothing. The collapsed workout card at the top of Train is slimmer as well, which hands a bit more of the screen back to the chat. And if you're in early access, the app has moved to five tabs with Train raised in the middle, and your coach reports and coach memory now live together under a new Coaching tab instead of being tucked inside History.
+
+---
+
 ## Build 243 (v1.4.8 — August 5, 2026)
 
 **Tap-to-log got real controls — nudge the reps or the weight right above the chat box, then hit the check to log the set.**
