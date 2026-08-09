@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 245 (v1.4.8 — August 9, 2026)
+
+**The target on an exercise row now agrees with your coach, instead of sitting there with a different weight than the one in the chat.**
+
+Each lift in your session list carries a little target worked out from your history, and it had no idea when your coach had moved you somewhere else — so the row could read 100 lb while the spec line, the input bar and the chat had all moved on to 147.5. Now, when your coach makes a concrete call on a lift, the row defers to it instead of showing a competing number. The history those targets come from was being read in the wrong order too: if an older workout got edited, or came back down from a sync, it could be treated as your most recent day for that lift — so the suggestion was built off a session from weeks ago instead of the one you just did. If you've gone back and hand-fixed a past workout in History, your coach now knows it was corrected and trusts what's stored over what it remembers from the chat. And the reports in the Coaching tab no longer sit behind a full-screen spinner — your plan cards come straight up from what's already on your phone, with each report's line filling in as it arrives.
+
+---
+
 ## Build 244 (v1.4.8 — August 7, 2026)
 
 **The set editor got rebuilt around one number at a time — a stepper, quick jump sizes, and a keypad when you'd rather just type it — and it's now what opens everywhere you edit a set.**
