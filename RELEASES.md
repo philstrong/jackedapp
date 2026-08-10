@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 249 (v1.4.8 — August 10, 2026)
+
+**Your Profile fills in the moment you open it, and it still shows your details when you're offline.**
+
+Your name, your weight and height, and the "Your Stats & Goals" numbers were being fetched fresh every single time you tapped into Profile — so on a slow signal you'd watch the screen sit half-empty, and with no signal at all those fields came up blank. Now they're drawn straight from what's already on your phone and appear instantly, then quietly refresh in the background. If that refresh can't get through, your details stay put instead of getting wiped.
+
+---
+
 ## Build 248 (v1.4.8 — August 10, 2026)
 
 **Tap the medal on a workout in History and its finish summary comes back — your totals, your wins, and your coach's read on the session.**
