@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 248 (v1.4.8 — August 10, 2026)
+
+**Tap the medal on a workout in History and its finish summary comes back — your totals, your wins, and your coach's read on the session.**
+
+The recap you get when you wrap up a workout used to be a one-time thing: scroll past it and it was gone. Now each of your recent sessions carries a small medal button that reopens it, put together from what's already on your phone — no waiting on a connection, no coach call. It reads the numbers as they stood that day, so a PR you set a few weeks back still shows up as a PR instead of getting buried by everything you've done since. Your coach's write-up gets saved with the session from here on out too, including when you hit Done while it's still typing — which used to lose it — so workouts from before this build will show your stats and wins but not the prose. The offline notice is quieter as well: the red bar and the floating pill are gone, replaced by a line in your coach's status area and a nudge in the chat box that you can keep logging by hand.
+
+---
+
 ## Build 246 (v1.4.8 — August 10, 2026)
 
 **Reports in the Coaching tab come up right away now, instead of holding the whole screen behind a spinner while it waits on the network.**
