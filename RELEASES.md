@@ -1,10 +1,22 @@
 # Jacked — Release Notes
 
+## Build 246 (v1.4.8 — August 10, 2026)
+
+**Reports in the Coaching tab come up right away now, instead of holding the whole screen behind a spinner while it waits on the network.**
+
+Your plan cards are worked out from what's already on your phone, but the pane was waiting on the report list to come down before it drew any of them — so on a slow signal you'd sit looking at a spinner with everything it needed already sitting there. Now the cards come straight up, and each one's report line fills in on its own as it arrives, with a soft placeholder holding the spot until then. The placeholder only shows on the first load of the day, so generating a new report doesn't flash the cards you've already got back to empty.
+
+---
+
 ## Build 245 (v1.4.8 — August 9, 2026)
 
 **Opening the app without a signal no longer kicks you out to the sign-up screen — you stay logged in and can keep logging your workout.**
 
 If your session had gone stale and the app couldn't reach the network to renew it — a basement gym, a dead spot, airplane mode — it read that as "signed out" and dropped you on the sign-up screen with a workout in progress. Now it keeps you signed in and switches to manual logging: a small "Offline — Coach paused" pill up top, and the chat box points you at logging sets by hand instead. Everything you log while you're out there saves locally, and the moment you're back on a signal it syncs up and your coach comes back. Only a genuine sign-out sends you to the auth screen now, and a flaky connection can never wipe your login on its own. The suggested weight on an exercise row got two fixes as well: it no longer sits there showing an old number when your coach has already moved you to a different weight, and it stops picking a months-old session as your "last time" — an older workout that got edited or re-synced could jump to the front of the line and drag the suggestion down with it. And when you go back and hand-correct a past workout in History, your coach now knows you corrected it and trusts those numbers over what it remembers from the conversation.
+
+**The target on an exercise row now agrees with your coach, instead of sitting there with a different weight than the one in the chat.**
+
+Each lift in your session list carries a little target worked out from your history, and it had no idea when your coach had moved you somewhere else — so the row could read 100 lb while the spec line, the input bar and the chat had all moved on to 147.5. Now, when your coach makes a concrete call on a lift, the row defers to it instead of showing a competing number. The history those targets come from was being read in the wrong order too: if an older workout got edited, or came back down from a sync, it could be treated as your most recent day for that lift — so the suggestion was built off a session from weeks ago instead of the one you just did. If you've gone back and hand-fixed a past workout in History, your coach now knows it was corrected and trusts what's stored over what it remembers from the chat. And the reports in the Coaching tab no longer sit behind a full-screen spinner — your plan cards come straight up from what's already on your phone, with each report's line filling in as it arrives.
 
 ---
 
