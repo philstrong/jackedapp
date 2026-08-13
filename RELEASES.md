@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 250 (v1.4.8 — August 13, 2026)
+
+**Starting a workout with no signal just starts it now, in manual mode, instead of stopping you with a "connect to the internet" pop-up.**
+
+Tapping Start while you were offline used to dead-end: an alert telling you to get online, and that was it. Now the workout begins straight away with manual logging, and a short note explains that your coach needs a connection and comes back the moment you're online — and the offline hint in the chat box is shorter, so it no longer cuts off mid-word. The set editor stopped breaking longer numbers across two lines as well: 172.5 and 11:00 now shrink to fit instead of splitting, and distance takes up to three decimals, so a 0.427-mile run records the way you actually ran it. And going back to edit a cardio set no longer knocks its "Cardio" label onto a second line and stretches the card taller than the ones around it.
+
+---
+
 ## Build 249 (v1.4.8 — August 10, 2026)
 
 **Your Profile fills in the moment you open it, and it still shows your details when you're offline.**
