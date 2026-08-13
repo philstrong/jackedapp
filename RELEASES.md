@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 251 (v1.4.8 — August 13, 2026)
+
+**Cardio sets sit flat in the list again, and the × that clears a number stopped landing on top of the number itself.**
+
+A logged run or ride was carrying its "Cardio" label twice — once as the tag on the card, then again as a chip in the line underneath — and on a full card that second one had nowhere to go, so it got cut off mid-word. The duplicate is gone, and the small "edited" mark on a set you've gone back and fixed now sits on that same line instead of adding a whole row, so a corrected set is the same height as every other one. In the set editor, the × for clearing a time or a bodyweight rep count has moved off the digits and into its own spot to the right — on a narrower phone it used to sit right over the last character of something like 11:22.
+
+---
+
 ## Build 250 (v1.4.8 — August 13, 2026)
 
 **Starting a workout with no signal just starts it now, in manual mode, instead of stopping you with a "connect to the internet" pop-up.**
