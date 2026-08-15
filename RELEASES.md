@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 252 (v1.4.8 — August 15, 2026)
+
+**Tapping a set in logs it straight away, on the right lift, with the check filling in as the card lands.**
+
+When you logged from the buttons above the chat, the app was writing your numbers out as a sentence and reading them back as if you'd typed them — so a bench set could land on whatever cardio you had going. Those taps now go straight in, which makes them instant, accurate, and fine with no signal: your entry shows up in the chat the moment you hit the check, and the check fills in and pops as the set card arrives. Tapping a number in your coach's set controls now opens the same slide-up editor you get everywhere else, and the big value at the top keeps up with the − and + buttons while the keypad's open. The finish summary got two fixes — wrapping up a workout your coach logged was calling nearly every lift an all-time PR and greeting you with "First Rep, session 1", and a stray weight on a walk or a run can't fake a weight PR or pad your volume any more, with distance and time now earning their own PRs against your recent training. And you can tell the app how many days a week you actually train, during setup or later from your Profile, so your milestones and week streak are pitched at your pace instead of assuming six days a week.
+
+---
+
 ## Build 251 (v1.4.8 — August 13, 2026)
 
 **Cardio sets sit flat in the list again, and the × that clears a number stopped landing on top of the number itself.**
