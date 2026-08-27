@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 253 (v1.4.8 — August 27, 2026)
+
+**The Coaching tab is open to everyone now — your progress reports and what your coach remembers about you, in their own place.**
+
+It had been sitting behind an early-access flag, so most people only ever saw four tabs at the bottom; now there are five, and Reports and Coach Memory have moved out of History into Coaching. Every screen's header was rebuilt to match — the screen's name up top with what you're looking at in small caps underneath it, Coaching over REPORTS, History over SESSIONS — sitting in the same spot on every tab, and Plans picked up a "Plan your work · work your plan" line. While a workout's running there's a small red LIVE mark above that name wherever you are in the app, so you can wander off to Plans or Profile and still see the session is going. Report sheets close the way the rest of the app's sheets do now — swipe down, tap outside, or hit an X that's big enough to actually hit — and their dates are in your coach's color so they're easier to pick out of a list. Workout Pace saves when you close it instead of quietly dropping the change, and you can get to it from the milestones card, the Week Streak popup and All Milestones instead of hunting for a tiny cog. And the "Rest over" reminder no longer goes off a couple of minutes after you've finished up and put your phone away.
+
+---
+
 ## Build 252 (v1.4.8 — August 15, 2026)
 
 **Tapping a set in logs it straight away, on the right lift, with the check filling in as the card lands.**
