@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 254 (v1.4.8 — August 27, 2026)
+
+**The weights, reps and lift names your coach calls out in chat come through in green now, so the numbers stand out from the sentence around them.**
+
+Your coach already puts the figures you're meant to act on in bold, but bold on its own is easy to skim straight past in a block of text. Those bits now show up in the same green the app uses for a recommended weight on the session card, so a target reads as a target at a glance. It applies to your own messages and to the example chat you see during setup too.
+
+---
+
 ## Build 253 (v1.4.8 — August 27, 2026)
 
 **The Coaching tab is open to everyone now — your progress reports and what your coach remembers about you, in their own place.**
