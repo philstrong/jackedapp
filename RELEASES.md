@@ -1,5 +1,15 @@
 # Jacked — Release Notes
 
+## Build 255 (v1.4.8 — August 29, 2026)
+
+**Finishing a workout asks you first now, and the length it saves is the time you actually trained — not however long the app sat open.**
+
+Hitting Finish used to end things on the spot, so a stray tap cost you the session. Now a short confirm slides up with a ring burning down around "End now" — leave it alone and it ends itself, or tap Keep going and it backs off. Walk away and come back half an hour later and that same sheet is waiting, instead of a workout that's been quietly running the whole time; it stays out of your way when you've already worked through everything you planned. The duration that gets saved is measured to your last logged set rather than the moment you remembered to close things, so a session you left open all evening no longer goes down as a five-hour day. Wrapping up by hand saves the workout first and then shows you the recap, so the summary can't slip away before you've read it.
+
+Tap mode picked up the same quick-log stepper and green check that coach mode has, in the same spot on screen and already filled in with your next set, so logging by hand is one tap there too. The LIVE mark at the top of the screen now flips to "RESTING" with your rest timer counting down inside it, wherever you happen to be in the app, and while a workout's going the Train button at the bottom wears a soft red ring when you've wandered off to another tab. And the Workout Pace row in your Profile shows what you're actually averaging alongside what you're aiming for — green once you're hitting it — with the sheet behind it telling you how many of the last eight weeks you made.
+
+---
+
 ## Build 254 (v1.4.8 — August 27, 2026)
 
 **The weights, reps and lift names your coach calls out in chat come through in green now, so the numbers stand out from the sentence around them.**
