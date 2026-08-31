@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 256 (v1.4.8 — August 30, 2026)
+
+**In tap mode the quick-log stepper sticks around for every set of a lift now, instead of disappearing after the first one.**
+
+That control above the input was filled in from your plan's target, and the target gets used up the moment you log the first set — so from set two onward it vanished and you were back to typing the rest out by hand. Now, once there's no target left to go on, it fills itself in from your last logged set on that lift, so every remaining set is still one tap on the check. It carries over the right kind of numbers, whether that lift is reps, a time or a distance, and it only ever logs onto the exercise you're looking at. The LIVE mark at the top of the tap-mode screen also holds steady instead of blinking, the way it does when your coach is running the session.
+
+---
+
 ## Build 255 (v1.4.8 — August 29, 2026)
 
 **Finishing a workout asks you first now, and the length it saves is the time you actually trained — not however long the app sat open.**
