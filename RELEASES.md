@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 257 (v1.4.9 — September 4, 2026)
+
+**A workout you add to History by hand shows up in the list right away instead of waiting for you to close the app and come back.**
+
+You could fill in a past session, save it, and land back on Sessions with no sign of it — the entry was safely stored, the list just wasn't redrawing. Same thing when you edited or deleted one. The list now picks up every change the moment you make it.
+
+---
+
 ## Build 256 (v1.4.8 — August 30, 2026)
 
 **In tap mode the quick-log stepper sticks around for every set of a lift now, instead of disappearing after the first one.**
