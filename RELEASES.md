@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 258 (v1.4.9 — September 9, 2026)
+
+**The quick-log stepper starts on the weight you actually lifted last, instead of jumping back to the one your coach asked for.**
+
+If the plan calls for 77.5 and you only have 75s, you'd fix that on the first set — then the control went straight back to 77.5 on set two, and on every set after it, so you were correcting the same number all session. It now picks up from your last logged set of that lift once there is one, and only leans on the target for the opener. Those taps also log under the name your plan uses for the lift, which stops your coach walking you through the same exercise a second time later in the session. And the recap at the end of a workout waits for you now — close the app before you've read it and it's still there when you come back, with your coach's write-up on it.
+
+---
+
 ## Build 257 (v1.4.9 — September 4, 2026)
 
 **A workout you add to History by hand shows up in the list right away instead of waiting for you to close the app and come back.**
