@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 259 (v1.4.9 — September 10, 2026)
+
+**The LIVE and RESTING mark you see during a workout now sits clear of the black pill at the top of the screen, instead of pressing right up against it.**
+
+On the newer phones that little mark was tucked so far under the camera pill it looked squashed against it. The whole header has moved down a touch, so the mark has room around it and the screen names underneath still line up the same way on every tab.
+
+---
+
 ## Build 258 (v1.4.9 — September 9, 2026)
 
 **The quick-log stepper starts on the weight you actually lifted last, instead of jumping back to the one your coach asked for.**
