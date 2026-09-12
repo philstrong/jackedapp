@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 261 (v1.4.9 — September 12, 2026)
+
+**A quiet maintenance build — nothing new to spot up front.**
+
+No new features in this one. It's a fresh copy of build 260, so tagging a set as Clean, Warmup or Failure right on the quick-log stepper is still the latest change. Keep logging and training exactly as you did before.
+
+---
+
 ## Build 260 (v1.4.9 — September 12, 2026)
 
 **You can mark a set as Clean, Warmup or Failure right on the quick-log stepper now, next to the green check you tap to log it.**
