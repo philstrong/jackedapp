@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 262 (v1.4.9 — September 12, 2026)
+
+**Tap a number on the quick-log stepper and the sheet that opens shows every number for the set at once, so you're not flipping between Reps and Weight anymore.**
+
+Each number sits in its own box with − and + buttons and a few step sizes to choose from (2.5, 5 or 10 for weight), and you can still tap the number itself to type it in. The Clean, Warmup and Failure tags are in there too. Before, a set you saved from this sheet quietly lost its tag, and now the tag stays on. For a new set there's a Set button next to Log: Set puts your numbers and tag back on the stepper without logging anything, so it's ready when you are and one tap on the green check logs it. It works the same whether your coach is running the session or you're logging in tap mode.
+
+---
+
 ## Build 261 (v1.4.9 — September 12, 2026)
 
 **A quiet maintenance build — nothing new to spot up front.**
