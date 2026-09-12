@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 260 (v1.4.9 — September 12, 2026)
+
+**You can mark a set as Clean, Warmup or Failure right on the quick-log stepper now, next to the green check you tap to log it.**
+
+The tag button used to sit down in the chat box, away from where you actually log. It now lives just left of the check: pick a tag, the check changes to that tag's color, and one tap logs the set with the tag on it. It works the same whether your coach is running the session or you're logging in tap mode. The tag clears after every set, so it won't carry over to the next one even when the weight and reps are the same. Tagged sets also show a small colored label in the list of sets you've logged. You can't tag a set you type out by hand anymore, so use the stepper when you want a tag.
+
+---
+
 ## Build 259 (v1.4.9 — September 10, 2026)
 
 **The LIVE and RESTING mark you see during a workout now sits clear of the black pill at the top of the screen, instead of pressing right up against it.**
