@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 263 (v1.4.9 — September 13, 2026)
+
+**The quick-log stepper now tells you which lift it's logging and which set you're on, like "Romanian Deadlift · Set 3 of 3", right across its top.**
+
+Before, you had to check the list of lifts for today's workout to know what the stepper was about to log, and once that list was folded away or scrolled out of sight there was nothing to go on. The count matches the one in that list, warmups included. If you do an extra set past the plan, or a lift that isn't on the plan at all, it just says "Set 4" instead of a total that looks wrong. It works the same whether your coach is running the session or you're logging in tap mode.
+
+---
+
 ## Build 262 (v1.4.9 — September 12, 2026)
 
 **Tap a number on the quick-log stepper and the sheet that opens shows every number for the set at once, so you're not flipping between Reps and Weight anymore.**
