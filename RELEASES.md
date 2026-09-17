@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 264 (v1.4.9 — September 17, 2026)
+
+**Your coach stays quiet while you log now — it speaks when you start a new lift, when you ask it something, and when you finish, instead of after every single set.**
+
+Tapping a set into the stepper used to pull a reply out of your coach each time, which filled the screen up fast on a long workout. Those sets now just land, and they stack into one card per lift instead of a separate card each, so five sets read as five lines under one heading rather than five things scrolling past. When the session does move onto a new lift, your coach gets the real numbers from the app — what you just did set by set, what that means for next time on the lift you finished, and the target for the one you're starting — so it stops guessing at a weight you never lifted. Swapping a lift mid-session hands over that lift's history too, and skipping one your coach just set you up for now moves on properly instead of leaving the old target sitting on the stepper.
+
+---
+
 ## Build 263 (v1.4.9 — September 13, 2026)
 
 **The quick-log stepper now tells you which lift it's logging and which set you're on, like "Romanian Deadlift · Set 3 of 3", right across its top.**
