@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 265 (v1.4.9 — September 18, 2026)
+
+**There's one workout screen now. You don't choose between your coach and tap mode anymore, and free and Pro both train on the same screen.**
+
+Starting a workout doesn't ask which mode you want, and it no longer sends free users to the paywall. On free, the screen is named after the workout instead of your coach, your coach stays quiet, and the chat box is replaced by a "swipe to chat" bar with a PRO tag. The finish recap still shows your stats and wins, and only the coach's write-up is kept for Pro. Every lift now gets the quick-log stepper, even one you've never done: it starts at 10 reps (or 10:00 for timed and cardio work) and leaves the weight for you to fill in. The app also remembers whether you're on Pro when it opens, so your targets don't jump up a step a second after launch. And the Log button fits long cardio labels like 12:00 and 0.68 mi inside the button instead of cutting them off.
+
+---
+
 ## Build 264 (v1.4.9 — September 17, 2026)
 
 **Your coach stays quiet while you log now — it speaks when you start a new lift, when you ask it something, and when you finish, instead of after every single set.**
