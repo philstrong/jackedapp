@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 266 (v1.4.9 — September 18, 2026)
+
+**Logging a past workout works properly now. Changing its date before you add anything no longer makes the whole workout disappear.**
+
+If you started a past workout from History and moved it to an earlier day before adding a set, the app quietly deleted it, and everything you entered after that looked saved but never stuck. That's fixed, and a back-dated workout now shows up on its own day in History instead of at the top of the list. When you start one, you pick from your own plans, and that plan's lifts are already there ready to fill in. Tapping Done with nothing logged now asks whether to discard it or keep editing, and a greyed-out Save in the set editor tells you what it still needs, like "Enter a duration to save." Coach reports also stop reusing the same words from one plan to the next, and a long headline wraps onto a second line instead of getting cut off.
+
+---
+
 ## Build 265 (v1.4.9 — September 18, 2026)
 
 **There's one workout screen now. You don't choose between your coach and tap mode anymore, and free and Pro both train on the same screen.**
