@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 267 (v1.4.9 — September 20, 2026)
+
+**A workout summary you swiped away stays away. It used to come back and greet you the next time you opened the app.**
+
+If you finished a workout and dismissed the recap while your coach was still writing it, the app saved those words anyway and then pushed the recap back in your face at the next launch, hours later. Now it only keeps the recap while you still have it open, so dismissing it means done, and reloading with it open still brings the coach's write-up back. Finishing also checks whether you're on Pro before it wraps up, so opening the app into a workout you'd left running and finishing it right away no longer gives a Pro user the free summary with the coach's read locked out.
+
+---
+
 ## Build 266 (v1.4.9 — September 18, 2026)
 
 **Logging a past workout works properly now. Changing its date before you add anything no longer makes the whole workout disappear.**
