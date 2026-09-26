@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 268 (v1.4.9 — September 26, 2026)
+
+**Renaming a plan no longer hides the workouts you logged under the old name.**
+
+Past workouts keep the name they were logged under, which is on purpose — but the app was also using that old name to work out what belonged to the plan. So after a rename, filtering History by that plan dropped the earlier sessions, your progress charts had a gap, the cards changed colour partway through, coach reports went missing from the plan, and your coach lost track of your own history on those lifts — reading a weight from before the rename, calling your own work "your other plan", or handing you a PR for a load you'd already beaten. Anything your coach saved to memory for that plan stopped saving too. All of that now follows the plan itself, so a rename is just a rename. The rest timer also finishes properly again: when it runs out the mark at the top of the screen turns green and reads READY, instead of flipping back to LIVE with nothing to say it's time to lift. And the summary after a cardio workout stops calling it your first one when you've been logging walks for months — it now weighs your distance, time and pace against your recent sessions.
+
+---
+
 ## Build 267 (v1.4.9 — September 20, 2026)
 
 **A workout summary you swiped away stays away. It used to come back and greet you the next time you opened the app.**
