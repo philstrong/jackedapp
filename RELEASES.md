@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 269 (v1.4.9 — September 27, 2026)
+
+**The coverage map shows your front and back side by side now, so you don't have to tap to see half your body.**
+
+On an iPhone 14 or bigger, both views sit next to each other at the same size the single body used to be. Smaller phones like the SE and mini keep the front/back toggle so the muscles stay easy to tap. The coverage map in History also stops telling you it "can't map your coverage yet" when Plans can map it fine, which used to stick until you restarted the app. And the muscle credit is more honest: walking counts as a warm-up and no longer credits your legs, and every pull-up, chin-up and pulldown now gives your rear delts indirect credit instead of only the wide-grip ones.
+
+---
+
 ## Build 268 (v1.4.9 — September 26, 2026)
 
 **Renaming a plan no longer hides the workouts you logged under the old name.**
