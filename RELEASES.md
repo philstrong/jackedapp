@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 270 (v1.4.9 — September 28, 2026)
+
+**Filling a gap in your coverage now takes you straight to the exercises that actually close it.**
+
+Tapping "Add an exercise" on a muscle gap now asks which plan you want it in, instead of quietly picking one for you. Your suggested plan is marked, and plans outside your rotation are labelled so you know adding there won't close the gap. The exercise library then opens filtered to that muscle, so a calves gap shows the nine calf exercises instead of 54 leg movements, and you can filter by muscle any time from the new Muscle tab. The suggestion also stops recommending a plan that has nothing in common with the exercise, and stops suggesting lifts you already have in another plan. And the Choose Workout sheet now scrolls as one piece, so the coach tip and last-7-days card no longer squeeze your plans into a sliver at the bottom.
+
+---
+
 ## Build 269 (v1.4.9 — September 27, 2026)
 
 **The coverage map shows your front and back side by side now, so you don't have to tap to see half your body.**
