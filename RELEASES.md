@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 271 (v1.4.9 — October 2, 2026)
+
+**The last-7-days card now shows what today's workout hits, not just what you missed this week.**
+
+When you pick a plan in Choose Workout, the muscles it trains light up in your coach's colour, and switching plans repaints them. What you've already trained this week fades into the background, and the untrained muscles stop flashing at you, so the workout you're about to start is the thing that stands out. Tapping a muscle on the coverage map now also shows how many working sets it got, alongside the session count. The daily tip moved out of the picker, where you'd barely see it, and into your workout log when the session starts. It stays there for the whole workout and won't get skipped just because you opened the picker and backed out. And if your Pro status changes mid-workout, the coach log updates right away instead of waiting for a restart.
+
+---
+
 ## Build 270 (v1.4.9 — September 28, 2026)
 
 **Filling a gap in your coverage now takes you straight to the exercises that actually close it.**
