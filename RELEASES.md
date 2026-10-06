@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 273 (v1.4.9 — October 5, 2026)
+
+**The last-7-days card shows up again if you've been away for a week or more.**
+
+The card in Choose Workout used to hide whenever you hadn't trained in the past seven days, so the people coming back after a break, the ones it could help most, saw nothing at all. Now it appears as long as you've logged at least one workout. It still leads with what today's plan hits, painted in your coach's colour, and everything else stays a quiet outline, so coming back reads as an invitation rather than a list of everything you skipped.
+
+---
+
 ## Build 272 (v1.4.9 — October 5, 2026)
 
 **Plan check and the last-7-days card stop telling you a muscle gets no work when your plans are quietly training it.**
