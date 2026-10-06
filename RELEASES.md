@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 272 (v1.4.9 — October 5, 2026)
+
+**Plan check and the last-7-days card stop telling you a muscle gets no work when your plans are quietly training it.**
+
+The last-7-days card used to count only a lift's main muscles, so rear delts, lower back, forearms and core showed up as untrained even though your rows, squats and carries work them. It now agrees with Plan check and only names a muscle when nothing in your rotation touches it at all, which on the default program is just calves. Plan check also stops flagging your lower back and forearms, since every program braces and grips them anyway. They're still drawn and counted on the body map, just not raised as something to fix. If none of your plans are in the rotation, Plan check now says so instead of telling you to build a plan you already have, and the "Include in rotation" switch in the plan editor is now properly labelled for VoiceOver.
+
+---
+
 ## Build 271 (v1.4.9 — October 2, 2026)
 
 **The last-7-days card now shows what today's workout hits, not just what you missed this week.**
