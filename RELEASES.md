@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 274 (v1.5.0 — October 7, 2026)
+
+**Your answers from the welcome questions now actually stick after you sign up.**
+
+The two questions new users answer before creating an account, how many days a week you train and where you heard about Jacked, were being lost the moment you signed up. They're now held onto until your account exists and saved to your profile right after, without overwriting anything you'd already set if you're signing back in. And if something on screen ever breaks, you'll now see a "Something went wrong" screen with a Try again button that brings the app back, instead of being stuck, and your workout picks up where you left off without dropping or doubling a set.
+
+---
+
 ## Build 273 (v1.4.9 — October 5, 2026)
 
 **The last-7-days card shows up again if you've been away for a week or more.**
