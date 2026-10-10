@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 275 (v1.5.0 — October 10, 2026)
+
+**A warmup set no longer earns you a PR.**
+
+Sets you tag as Warmup used to get judged like working sets, so a heavy warmup could pop a PR badge it didn't deserve. Now a warmup's set card skips the PR check and the comparison to last time altogether. The rows on a lift card now show what you actually did last time, warmups included, each marked LAST, instead of repeating the same target weight on every row. And when you tell your coach you're dropping the weight mid-lift, the set control now follows the new number instead of sticking with the old one.
+
+---
+
 ## Build 274 (v1.5.0 — October 7, 2026)
 
 **Your answers from the welcome questions now actually stick after you sign up.**
