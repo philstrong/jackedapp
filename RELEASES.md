@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 277 (v1.5.0 — October 18, 2026)
+
+**Plan check now tells you how many sets a week each muscle actually gets.**
+
+Muscle coverage now counts weekly sets instead of sessions. A set where the muscle does the main work counts as one, and a set where it only helps counts as half. Each muscle lands at no work, light, minimum or full, and Plan check shows its percent on both sides of the body plus in a list you can tap into, lowest first. The top of the Plans list now has a coverage strip showing how many muscles hit full volume, about how many hours a week your plans take, and which muscles are light or getting nothing, and tapping it opens Plan check. Lifts no longer get credit for muscles that only hold you steady, so squats don't count toward your hamstrings and deadlifts don't count toward your lats. Core joins lower back and forearms as muscles that get drawn and counted but are never flagged as a gap.
+
+---
+
 ## Build 276 (v1.5.0 — October 18, 2026)
 
 **Your first time in Jacked now shows you what you can do from the couch.**
