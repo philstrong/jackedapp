@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 276 (v1.5.0 — October 18, 2026)
+
+**Your first time in Jacked now shows you what you can do from the couch.**
+
+New users used to get a long demo of someone else's workout that ended by telling them to start one. Now it's a short preview of what a session looks like, followed by three things you can do right away: browse the ready-made plans, import your history from Hevy or Strong, or log a workout you've already done. Muscle coverage, meaning Plan check, the coverage map and the last-7-days card, is now on for everyone. If you're on the free tier, tapping the lock on the coach avatar or the FREE pill now shows you what Pro includes, and the Coaching tab explains Coach Reports instead of showing a blank screen. The Pro price shown after you finish a workout now matches the real price in your currency, where before it showed an old, lower price.
+
+---
+
 ## Build 275 (v1.5.0 — October 10, 2026)
 
 **A warmup set no longer earns you a PR.**
