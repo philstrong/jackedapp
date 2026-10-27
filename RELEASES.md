@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 278 (v1.5.0 — October 27, 2026)
+
+**Your plans now fit the equipment you actually have.**
+
+New users now get asked what equipment they have (a full gym, machines, or dumbbells at home) and get a first program built for that and the number of days they lift, and anyone can change either from the top of the Plans tab and rebuild their plans after seeing a preview of exactly what changes, starting from their own past numbers. Training somewhere else for a day? Choose Workout now lets you pick the equipment for just that workout and swaps each lift for one you can do, and turning on Away keeps a hotel workout from changing your plans or your "last time" numbers back home. When you swap a lift, the list shows the ones that fit your equipment and work the same muscles first, the workout tiles sit two to a row so long plan names fit, and you can now have up to 10 plans. The set card no longer claims a PR mid-lift (records now show once, on the finish screen), and if a set you typed doesn't get logged or the coach hits a hiccup, you'll see a plain message instead of silence or a confusing error.
+
+---
+
 ## Build 277 (v1.5.0 — October 18, 2026)
 
 **Plan check now tells you how many sets a week each muscle actually gets.**
