@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 281 (v1.5.0 — November 10, 2026)
+
+**Your coverage score now looks the same on the Plans tab and in Plan check.**
+
+The top of the Plans tab and Plan check now share one coverage card, with your score out of 100, a bar with a segment for each muscle, how many muscles are at full volume, and which ones are light or getting no work. Under that you'll see your equipment, your days a week and about how long your plans take each week, and you can change your days or equipment right from the card on either screen. The greens on the muscle map are also easier to tell apart, so minimum and full no longer look like the same color.
+
+---
+
 ## Build 280 (v1.5.0 — November 10, 2026)
 
 **Your plans all fit on the Choose Workout screen again.**
