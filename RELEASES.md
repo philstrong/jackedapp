@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 282 (v1.5.0 — November 10, 2026)
+
+**Not sure how a lift works? There's now a "How to" video for it.**
+
+51 lifts now have a short form video, including every lift in the ready-made plans except Walking. Look for the "How to" button next to the lift in the exercise list, whether you're building a plan, adding a lift mid-workout or swapping one out, and on the card for the lift you're on during a workout. It's free for everyone and opens the video on YouTube.
+
+---
+
 ## Build 281 (v1.5.0 — November 10, 2026)
 
 **Your coverage score now looks the same on the Plans tab and in Plan check.**
