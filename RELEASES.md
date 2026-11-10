@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 279 (v1.5.0 — November 10, 2026)
+
+**Your Progress charts now show your real lifts, and one typo can't wreck them.**
+
+Picking a plan on Progress now charts your own lifts instead of example data, including ones you logged under that plan before a Rebuild, and one mistyped weight no longer flattens a chart (it shows as a hollow dot on the edge that you can tap to fix). The New PR trophy is back on the set card, once per lift, on the first set that beats your all-time best, the number pad's first key now replaces the value so typing 8 over a 10 gives you 8 and not 108, and a weighted lift you've never done now shows a 0 you can edit and asks for a weight instead of hiding the field. Start now always opens Choose Workout, a first walk is planned as one bout instead of three sets, and the equipment choice now only appears once you turn on Away. A Coverage range with no training in it now says so and offers the last 30 days instead of treating you like a new user, the Profile checklist counts workouts from before this year, a short History list starts at the top of the screen, and the app's tips no longer tell you to ask the coach for things you can now do with a tap.
+
+---
+
 ## Build 278 (v1.5.0 — October 27, 2026)
 
 **Your plans now fit the equipment you actually have.**
