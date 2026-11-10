@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 280 (v1.5.0 — November 10, 2026)
+
+**Your plans all fit on the Choose Workout screen again.**
+
+Choose Workout is back to three tiles a row with smaller plan names, so you can see your plans without scrolling. Long names still get two lines on the tile, and the Start button now always shows the full name of the plan you picked instead of cutting it off.
+
+---
+
 ## Build 279 (v1.5.0 — November 10, 2026)
 
 **Your Progress charts now show your real lifts, and one typo can't wreck them.**
