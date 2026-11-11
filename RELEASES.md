@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 284 (v1.5.0 — November 11, 2026)
+
+**Ten more lifts now have a "How to" video.**
+
+We added form videos for the lifts people log most that didn't have one yet: Goblet Squat, Dead Bug, Plank, Side Plank, Bird Dog, Pull Up, Incline Bench Press, Wide-Grip Bench Press, Bulgarian Split Squat and Hip Abductor. That brings the total to 61. Look for the "How to" button in the exercise list, in the plan editor, and on the card for the lift you're on during a workout.
+
+---
+
 ## Build 283 (v1.5.0 — November 11, 2026)
 
 **The "How to" video is now on every lift in your plans too.**
