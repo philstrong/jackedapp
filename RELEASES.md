@@ -1,5 +1,13 @@
 # Jacked — Release Notes
 
+## Build 283 (v1.5.0 — November 11, 2026)
+
+**The "How to" video is now on every lift in your plans too.**
+
+You used to have to open Add exercise to find a lift's video, even when it was already in your plan. Now each lift in the plan editor has its own "How to" button, and it's there mid-workout too, when the plan is read-only. Custom lifts you've added yourself don't have videos.
+
+---
+
 ## Build 282 (v1.5.0 — November 10, 2026)
 
 **Not sure how a lift works? There's now a "How to" video for it.**
